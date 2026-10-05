@@ -34,29 +34,37 @@ window.NEXAGEN_CONTENT = {
   "logos": [
     {
       "name": "Flying Zone International",
-      "image": "assets/optimized/c63b632bc93909de.webp",
+      "image": "assets/client-hd/00.png",
       "category": "Travel",
-      "imageOriginal": "assets/flying-zone-international-transparent.png"
+      "imageOriginal": "assets/flying-zone-international-transparent.png",
+      "imageHD": "assets/client-hd/00.png",
+      "imageTransparent": "assets/client-hd/00.png"
     },
     {
       "name": "Abid Air International",
-      "image": "assets/optimized/94608e4f209b58fc.webp",
+      "image": "assets/client-hd/01.png",
       "category": "Travel",
       "imageOriginal": "assets/abid-air-international-transparent.png",
-      "imageRetina": "assets/abid-air-international-transparent.png"
+      "imageRetina": "assets/abid-air-international-transparent.png",
+      "imageHD": "assets/client-hd/01.png",
+      "imageTransparent": "assets/client-hd/01.png"
     },
     {
       "name": "RGS Umrah Group of Companies",
-      "image": "assets/optimized/b6ea6cedf815eb0c.webp",
+      "image": "assets/client-hd/02.png",
       "category": "Travel",
       "imageOriginal": "assets/rgs-umrah-group-transparent.png",
-      "imageRetina": "assets/rgs-umrah-group-transparent.png"
+      "imageRetina": "assets/rgs-umrah-group-transparent.png",
+      "imageHD": "assets/client-hd/02.png",
+      "imageTransparent": "assets/client-hd/02.png"
     },
     {
       "name": "Ahan Travels & Tours",
-      "image": "assets/optimized/5353e2b1b080d1db.webp",
+      "image": "assets/client-hd/03.png",
       "category": "Travel",
-      "imageOriginal": "assets/ahan-transparent.png"
+      "imageOriginal": "assets/ahan-transparent.png",
+      "imageHD": "assets/client-hd/03.png",
+      "imageTransparent": "assets/client-hd/03.png"
     },
     {
       "name": "Al-Naeem Travel & Tours",
@@ -67,9 +75,11 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Awan Airways",
-      "image": "assets/optimized/9307a9a21a069d78.webp",
+      "image": "assets/client-hd/05.png",
       "category": "Travel",
-      "imageOriginal": "assets/awanlogo-transparent.png"
+      "imageOriginal": "assets/awanlogo-transparent.png",
+      "imageHD": "assets/client-hd/05.png",
+      "imageTransparent": "assets/client-hd/05.png"
     },
     {
       "name": "Azam Al Haram",
@@ -94,15 +104,19 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Al-Dalma Travels & Tourism",
-      "image": "assets/optimized/1761cc9b5b7388cc.webp",
+      "image": "assets/client-hd/09.png",
       "category": "Travel",
-      "imageOriginal": "assets/dalma-transparent.png"
+      "imageOriginal": "assets/dalma-transparent.png",
+      "imageHD": "assets/client-hd/09.png",
+      "imageTransparent": "assets/client-hd/09.png"
     },
     {
       "name": "Jawad International Air Services",
-      "image": "assets/optimized/14f65b638061e49b.webp",
+      "image": "assets/client-hd/10.png",
       "category": "Travel",
-      "imageOriginal": "assets/jawad-transparent.png"
+      "imageOriginal": "assets/jawad-transparent.png",
+      "imageHD": "assets/client-hd/10.png",
+      "imageTransparent": "assets/client-hd/10.png"
     },
     {
       "name": "Kazmi Paradise",
@@ -125,8 +139,11 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Manasik Al Haram",
-      "image": "assets/manasik-transparent.png",
-      "category": "Travel"
+      "image": "assets/client-hd/14.png",
+      "category": "Travel",
+      "imageOriginal": "assets/manasik-transparent.png",
+      "imageHD": "assets/client-hd/14.png",
+      "imageTransparent": "assets/client-hd/14.png"
     },
     {
       "name": "Oasis",
@@ -137,22 +154,28 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Qafla-e-Sagir",
-      "image": "assets/optimized/d854b9ead8b7df3e.webp",
+      "image": "assets/client-hd/16.png",
       "category": "Travel",
-      "imageOriginal": "assets/QaflaeSagir-transparent.png"
+      "imageOriginal": "assets/QaflaeSagir-transparent.png",
+      "imageHD": "assets/client-hd/16.png",
+      "imageTransparent": "assets/client-hd/16.png"
     },
     {
       "name": "Quick Travel Services",
-      "image": "assets/optimized/b3643f04975db873.webp",
+      "image": "assets/client-hd/17.png",
       "category": "Travel",
       "imageOriginal": "assets/quicktravels-transparent.png",
-      "imageRetina": "assets/quicktravels-transparent.png"
+      "imageRetina": "assets/quicktravels-transparent.png",
+      "imageHD": "assets/client-hd/17.png",
+      "imageTransparent": "assets/client-hd/17.png"
     },
     {
       "name": "Rihla Access",
-      "image": "assets/optimized/9755e7a652c8addc.webp",
+      "image": "assets/client-hd/18.png",
       "category": "Travel",
-      "imageOriginal": "assets/RihlaAccess-transparent.png"
+      "imageOriginal": "assets/RihlaAccess-transparent.png",
+      "imageHD": "assets/client-hd/18.png",
+      "imageTransparent": "assets/client-hd/18.png"
     },
     {
       "name": "Sawar-e-Haram",
@@ -163,28 +186,36 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Shaheen Wings Travels",
-      "image": "assets/optimized/687338ddf7392a00.webp",
+      "image": "assets/client-hd/20.png",
       "category": "Travel",
-      "imageOriginal": "assets/shaheenwings-transparent.png"
+      "imageOriginal": "assets/shaheenwings-transparent.png",
+      "imageHD": "assets/client-hd/20.png",
+      "imageTransparent": "assets/client-hd/20.png"
     },
     {
       "name": "Sugra International",
-      "image": "assets/optimized/256cc9a26d03195c.webp",
+      "image": "assets/client-hd/21.png",
       "category": "Travel",
       "imageOriginal": "assets/sugralogo-transparent.png",
-      "imageRetina": "assets/sugralogo-transparent.png"
+      "imageRetina": "assets/sugralogo-transparent.png",
+      "imageHD": "assets/client-hd/21.png",
+      "imageTransparent": "assets/client-hd/21.png"
     },
     {
       "name": "The Flight Centre",
-      "image": "assets/optimized/f5257b8ff293a639.webp",
+      "image": "assets/client-hd/22.png",
       "category": "Travel",
-      "imageOriginal": "assets/tfc-transparent.png"
+      "imageOriginal": "assets/tfc-transparent.png",
+      "imageHD": "assets/client-hd/22.png",
+      "imageTransparent": "assets/client-hd/22.png"
     },
     {
       "name": "Tourvision Travel",
-      "image": "assets/optimized/3ce0b7d9470f3a5d.webp",
+      "image": "assets/client-hd/23.png",
       "category": "Travel",
-      "imageOriginal": "assets/tourvision-transparent.png"
+      "imageOriginal": "assets/tourvision-transparent.png",
+      "imageHD": "assets/client-hd/23.png",
+      "imageTransparent": "assets/client-hd/23.png"
     },
     {
       "name": "Waqar-e-Makkah",
