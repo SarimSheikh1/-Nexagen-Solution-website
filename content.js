@@ -1,0 +1,766 @@
+window.NEXAGEN_CONTENT = {
+  "partners": [
+    {
+      "photo": "assets/hussnain-ali.jpeg",
+      "name": "Hussnain Ali",
+      "role": "Managing Partner & Head of Sales",
+      "responsibility": "Overall sales, clients & business development"
+    },
+    {
+      "photo": "assets/jamshaid-hassan.jpeg",
+      "name": "Jamshaid Hassan",
+      "role": "Managing Partner & Head of Finance & Technology",
+      "responsibility": "Finance + developer/team management"
+    },
+    {
+      "photo": "assets/ahmad-mustafa-adnan.jpeg",
+      "name": "Ahmad Mustafa Adnan",
+      "role": "Partner",
+      "responsibility": "Strategic/business partnership"
+    },
+    {
+      "photo": "assets/mohib-adnan.jpeg",
+      "name": "Mohib Adnan",
+      "role": "Partner",
+      "responsibility": "Strategic/business partnership"
+    },
+    {
+      "photo": "assets/muhammad-haseeb-tahir.jpeg",
+      "name": "Muhammad Haseeb Tahir",
+      "role": "Partner",
+      "responsibility": "Strategic/business partnership"
+    }
+  ],
+  "logos": [
+    {
+      "name": "Flying Zone International",
+      "image": "assets/optimized/c63b632bc93909de.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/flying-zone-international-transparent.png"
+    },
+    {
+      "name": "Abid Air International",
+      "image": "assets/optimized/94608e4f209b58fc.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/abid-air-international-transparent.png"
+    },
+    {
+      "name": "RGS Umrah Group of Companies",
+      "image": "assets/optimized/b6ea6cedf815eb0c.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/rgs-umrah-group-transparent.png"
+    },
+    {
+      "name": "Ahan Travels & Tours",
+      "image": "assets/optimized/5353e2b1b080d1db.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/ahan-transparent.png"
+    },
+    {
+      "name": "Al-Naeem Travel & Tours",
+      "image": "assets/optimized/9e5dfbaf8d70713b.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/al-naeem-transparent.png"
+    },
+    {
+      "name": "Awan Airways",
+      "image": "assets/optimized/9307a9a21a069d78.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/awanlogo-transparent.png"
+    },
+    {
+      "name": "Azam Al Haram",
+      "image": "assets/optimized/300b898365619b83.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/azamalharam-transparent.png"
+    },
+    {
+      "name": "Azan-e-Madina Travel",
+      "image": "assets/optimized/2046ce71c9bbcd4f.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/azan-e-madinah-logo-transparent.png"
+    },
+    {
+      "name": "Bin Naeem Travels",
+      "image": "assets/optimized/71f78ffd26da36ad.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/binnaeem-transparent.png"
+    },
+    {
+      "name": "Al-Dalma Travels & Tourism",
+      "image": "assets/optimized/1761cc9b5b7388cc.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/dalma-transparent.png"
+    },
+    {
+      "name": "Jawad International Air Services",
+      "image": "assets/optimized/14f65b638061e49b.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/jawad-transparent.png"
+    },
+    {
+      "name": "Kazmi Paradise",
+      "image": "assets/optimized/31501c6746c99976.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/kazmi-transparent.png"
+    },
+    {
+      "name": "Madina Shareef",
+      "image": "assets/optimized/70126627cf0ca566.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/madina-shareef-transparent.png"
+    },
+    {
+      "name": "Maher Travel & Tourism",
+      "image": "assets/mahertravels-transparent.png",
+      "category": "Travel"
+    },
+    {
+      "name": "Manasik Al Haram",
+      "image": "assets/manasik-transparent.png",
+      "category": "Travel"
+    },
+    {
+      "name": "Oasis",
+      "image": "assets/optimized/d944f857816ada56.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/oasis-transparent.png"
+    },
+    {
+      "name": "Qafla-e-Sagir",
+      "image": "assets/optimized/d854b9ead8b7df3e.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/QaflaeSagir-transparent.png"
+    },
+    {
+      "name": "Quick Travel Services",
+      "image": "assets/optimized/b3643f04975db873.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/quicktravels-transparent.png"
+    },
+    {
+      "name": "Rihla Access",
+      "image": "assets/optimized/9755e7a652c8addc.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/RihlaAccess-transparent.png"
+    },
+    {
+      "name": "Sawar-e-Haram",
+      "image": "assets/optimized/0a831bcb52c7453d.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/sawareharam-transparent.png"
+    },
+    {
+      "name": "Shaheen Wings Travels",
+      "image": "assets/optimized/687338ddf7392a00.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/shaheenwings-transparent.png"
+    },
+    {
+      "name": "Sugra International",
+      "image": "assets/optimized/256cc9a26d03195c.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/sugralogo-transparent.png"
+    },
+    {
+      "name": "The Flight Centre",
+      "image": "assets/optimized/f5257b8ff293a639.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/tfc-transparent.png"
+    },
+    {
+      "name": "Tourvision Travel",
+      "image": "assets/optimized/3ce0b7d9470f3a5d.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/tourvision-transparent.png"
+    },
+    {
+      "name": "Waqar-e-Makkah",
+      "image": "assets/optimized/5d0bce9e801297b5.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/waqaremakkah-transparent.png"
+    },
+    {
+      "name": "QWP Travel Services",
+      "image": "assets/optimized/e369e68841d332ae.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png"
+    },
+    {
+      "name": "Premier Travel Group",
+      "image": "assets/optimized/d57c1f9b47616a3a.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.34-transparent.png"
+    },
+    {
+      "name": "Premier Adventure",
+      "image": "assets/optimized/c7aee28b6b30ffc2.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.40-transparent.png"
+    },
+    {
+      "name": "PNH Umrah Services",
+      "image": "assets/optimized/395889726bc0ec00.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png"
+    },
+    {
+      "name": "PIR Travel & Tours",
+      "image": "assets/optimized/c756c49713e7e3a4.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.18-transparent.png"
+    },
+    {
+      "name": "World Class Travel & Tours",
+      "image": "assets/optimized/9c4089419b99ac77.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/worldclass-transparent.png"
+    },
+    {
+      "name": "Azan E Madina Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.40.21.jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Ahmed Noor Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(2).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Air Circle Travel & Tourism",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(3).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Air Touch Holidays",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(4).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Aitemar Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(5).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Dayan Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(6).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al-Deafah",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(7).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Fajr International Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(8).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Falak Aviation",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(9).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Fareed Fly Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(10).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al-Hafiz International Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(11).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al-Khalifa Travel",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(12).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al-Khandwani International Travel & Tours",
+      "image": "assets/optimized/a9d19d42b404d589.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(13).jpeg"
+    },
+    {
+      "name": "AMT&T",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(14).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al-Mashriq Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(15).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Murad Aviation",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(17).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Noor Al Amin Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(18).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Qadeer Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(19).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Rehmat Travel & Tours",
+      "image": "assets/optimized/9b58404a31c586d6.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(21).jpeg"
+    },
+    {
+      "name": "Al-Saad Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(22).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Safar Wal Siyahah",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(23).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al Safia Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(24).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Al-Tayyar Travel Advisor",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(25).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Alaamir International",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(26).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Alamgir Travel Point Services",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(27).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Ali Universal Travel & Tourism",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(28).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Afaf Rabana Travels & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56.jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Flight Express",
+      "image": "assets/optimized/2cd78d26b47615bf.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(1).jpeg"
+    },
+    {
+      "name": "Five Star Travel",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(2).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Fatmi Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(3).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "New Fast Shine Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(4).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Airways Express",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(6).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Emaar Pakistan Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(9).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Durrani International Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(11).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "92 Madina",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(12).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Dost Umrah Group Services",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(13).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Divine Travels & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(14).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Deal Air Travel",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(16).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Dar Al Haram Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(17).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Crown International Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(18).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Cheapfly Travels & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(21).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Buraq Travel Network",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(24).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "BS Travel Services",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(25).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Brothers International Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(26).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Amal Holidays",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(29).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Anas Tours & Travels",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(32).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Areej Travel & Tourism",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(33).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Asean Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(36).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "ASM Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(37).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Umar Travel & Tours",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(40).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Azhan Travel",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(42).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Babul International Travel & Tours",
+      "image": "assets/optimized/cc3e32c1d9a55404.webp",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(43).jpeg"
+    },
+    {
+      "name": "CLO",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(20).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Experts",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(7).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "CFD",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(23).jpeg",
+      "category": "Travel"
+    },
+    {
+      "name": "Supra Transport",
+      "image": "assets/optimized/749c0d307a12d981.webp",
+      "category": "Other businesses",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.20.34-transparent.png"
+    },
+    {
+      "name": "Faryad Decor Hub",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(5).jpeg",
+      "category": "Other businesses"
+    },
+    {
+      "name": "Emaan Enterprises",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(8).jpeg",
+      "category": "Other businesses"
+    },
+    {
+      "name": "Deeds",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(15).jpeg",
+      "category": "Other businesses"
+    },
+    {
+      "name": "Chawla Stitching Studio",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(22).jpeg",
+      "category": "Other businesses"
+    },
+    {
+      "name": "Afino Textile Mills",
+      "image": "assets/afino-textile-mills-transparent.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/afino-textile-mills.png"
+    },
+    {
+      "name": "Tulips",
+      "image": "assets/tulips-transparent.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/tulips.jpeg"
+    },
+    {
+      "name": "Ambarsariya Fashion",
+      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(30).jpeg",
+      "category": "Other businesses"
+    }
+  ],
+  "services": [
+    {
+      "title": "Web Design & Development",
+      "slug": "web-design-development",
+      "description": "Fast, responsive websites tailored to your business goals.",
+      "planningQuestions": [
+        "Which pages and customer journeys matter most?",
+        "What content and brand assets are already available?",
+        "Do you need a content management workflow or external integrations?"
+      ]
+    },
+    {
+      "title": "Custom Software",
+      "slug": "custom-software",
+      "description": "Custom apps to streamline operations and boost productivity.",
+      "planningQuestions": [
+        "Which manual steps are slowing your team down?",
+        "Who needs access, and what should each person be able to do?",
+        "Which existing systems and data need to be considered?"
+      ]
+    },
+    {
+      "title": "App Development",
+      "slug": "app-development",
+      "description": "High-performance mobile apps for Android and iOS.",
+      "planningQuestions": [
+        "Which tasks should customers or staff complete on mobile?",
+        "Which devices and operating systems need to be supported?",
+        "Does the app need to work with an existing website or backend?"
+      ]
+    },
+    {
+      "title": "Digital Marketing & SEO",
+      "slug": "digital-marketing-seo",
+      "description": "Data-driven campaigns to reach the right audience online.",
+      "planningQuestions": [
+        "Who is the audience you want to reach?",
+        "Which existing pages and campaigns can be reviewed?",
+        "What would a useful, measurable outcome look like for your business?"
+      ]
+    },
+    {
+      "title": "E-Commerce",
+      "slug": "e-commerce",
+      "description": "Secure online stores with payments and inventory management.",
+      "planningQuestions": [
+        "What products and stock information need to be presented?",
+        "Which order, payment and fulfillment workflows are required?",
+        "Which providers are available and approved for your business?"
+      ]
+    },
+    {
+      "title": "CRM Solutions",
+      "slug": "crm-solutions",
+      "description": "Organize leads, pipelines, and follow-ups in one place.",
+      "planningQuestions": [
+        "How do you currently record leads and customer information?",
+        "Which follow-ups and pipeline stages need to be organized?",
+        "Who should have access to each part of the customer record?"
+      ]
+    },
+    {
+      "title": "Hotel Booking Websites",
+      "slug": "hotel-booking-websites",
+      "description": "Hotel booking with live availability and secure payments.",
+      "planningQuestions": [
+        "How should rooms, rates and availability be maintained?",
+        "Which booking steps and confirmation workflows are needed?",
+        "Are there approved systems or providers to connect?"
+      ]
+    },
+    {
+      "title": "AI Automation",
+      "slug": "ai-automation",
+      "description": "Smart AI tools that automate work and improve decisions.",
+      "planningQuestions": [
+        "Which repeatable task is suitable for automation?",
+        "What data can be used, and what requires human review?",
+        "How should accuracy and exceptions be evaluated?"
+      ]
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "cybersecurity",
+      "description": "Security solutions to protect your systems and data.",
+      "planningQuestions": [
+        "Which systems and access patterns need to be reviewed?",
+        "What backup and recovery arrangements are in place?",
+        "What security scope and assessment permissions can be agreed?"
+      ]
+    },
+    {
+      "title": "UI/UX Design",
+      "slug": "ui-ux-design",
+      "description": "User-friendly interfaces that make interactions effortless.",
+      "planningQuestions": [
+        "Who uses the product and what are their main tasks?",
+        "Where are people getting stuck in the current experience?",
+        "Which journeys need prototypes and feedback?"
+      ]
+    },
+    {
+      "title": "Maintenance & Support",
+      "slug": "maintenance-support",
+      "description": "Ongoing updates, monitoring, and technical support.",
+      "planningQuestions": [
+        "What system, hosting and source access is available?",
+        "Which fixes, updates and support tasks are needed?",
+        "What scope and response arrangements should be agreed?"
+      ]
+    },
+    {
+      "title": "Group Booking Portal",
+      "slug": "group-booking-portal",
+      "description": "Booking systems for corporate travel and group reservations.",
+      "planningQuestions": [
+        "How are group reservations recorded and coordinated?",
+        "Which participants, packages and booking statuses need to be tracked?",
+        "What access and approval steps does your team need?"
+      ]
+    },
+    {
+      "title": "Umrah Package Bookings",
+      "slug": "umrah-package-bookings",
+      "description": "Complete Umrah and Hajj booking with accommodation support.",
+      "planningQuestions": [
+        "How should packages and accommodation options be presented?",
+        "Which inquiry and booking steps should the portal support?",
+        "How will your team manage package content and booking information?"
+      ]
+    },
+    {
+      "title": "API Integration",
+      "slug": "api-integration",
+      "description": "Seamless API integrations to connect systems and automate.",
+      "planningQuestions": [
+        "Which systems and documented APIs need to connect?",
+        "What data should move between systems, and when?",
+        "How should access, failures and duplicate records be handled?"
+      ]
+    },
+    {
+      "title": "Travel Portal",
+      "slug": "travel-portal",
+      "description": "Travel portals shaped around booking workflows and the needs of travel businesses.",
+      "planningQuestions": [
+        "Which travel products and booking workflows need to be supported?",
+        "Which existing tools or approved providers need to connect?",
+        "What information and permissions does your team need?"
+      ]
+    },
+    {
+      "title": "ERP & Business Solutions",
+      "slug": "erp-business-solutions",
+      "description": "Connect your business workflows and information in a system tailored to your operations.",
+      "planningQuestions": [
+        "Which departments and workflows need shared information?",
+        "Which approvals, records and reports are essential?",
+        "What existing data should be considered for migration?"
+      ]
+    },
+    {
+      "title": "Accounting & Inventory Software",
+      "slug": "accounting-inventory-software",
+      "description": "Keep accounting records and stock movements organized in one business system.",
+      "planningQuestions": [
+        "How do you record accounts and stock movements today?",
+        "Which reconciliation, inventory and reporting tasks need attention?",
+        "What business rules and existing records must be preserved?"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "How the right technology turns everyday work into business growth",
+      "slug": "technology-for-business-growth",
+      "category": "Strategy",
+      "body": "<p class=\"reader-intro\">The best technology does more than automate a task. It gives people clarity, helps teams make better decisions, and creates a smoother experience for every customer.</p><h3>Start with the real business problem</h3><p>Successful digital projects begin with a clear understanding of the work behind the request. Before choosing a tool, map the process, listen to the team using it, and identify where time, information, or customer trust is being lost.</p><h3>Make every interaction simpler</h3><p>Good design removes friction. A clear website, a focused booking journey, or a well-organized dashboard can help people find what they need faster and feel confident about the next step. Small improvements, repeated across the customer journey, create a meaningful advantage.</p><h3>Build for today and tomorrow</h3><p>Reliable software should solve today’s problem without creating tomorrow’s limitation. Scalable architecture, secure data practices, and measurable goals give a business the flexibility to grow without rebuilding everything from scratch.</p><h3>Keep improving after launch</h3><p>Launch is the beginning of learning, not the end of the project. Review real usage, collect feedback, and make thoughtful improvements. With the right partner, technology becomes a long-term growth engine instead of a one-time expense.</p>",
+      "draft": true
+    },
+    {
+      "title": "Top Web Trends Every Business Should Know",
+      "slug": "top-web-trends-every-business-should-know",
+      "category": "Web Development",
+      "description": "Explore practical design and development ideas that help websites feel faster, clearer, and more valuable.",
+      "draft": true
+    },
+    {
+      "title": "Simple Cybersecurity Habits That Protect Your Team",
+      "slug": "simple-cybersecurity-habits-that-protect-your-team",
+      "category": "Security",
+      "description": "Build safer routines around passwords, access, backups, and staff awareness without slowing your business down.",
+      "draft": true
+    },
+    {
+      "title": "SEO Strategies That Turn Searches Into Customers",
+      "slug": "seo-strategies-that-turn-searches-into-customers",
+      "category": "Marketing",
+      "description": "Learn how useful content, technical quality, and local visibility work together to attract the right audience.",
+      "draft": true
+    },
+    {
+      "title": "A Practical Guide to Moving Your Business to the Cloud",
+      "slug": "a-practical-guide-to-moving-your-business-to-the-cloud",
+      "category": "Cloud",
+      "description": "A clear path for planning migration, choosing tools, protecting information, and keeping your team productive.",
+      "draft": true
+    },
+    {
+      "title": "Designing Mobile Experiences People Enjoy Using",
+      "slug": "designing-mobile-experiences-people-enjoy-using",
+      "category": "Product Design",
+      "description": "Discover the small interface decisions that make mobile apps easier to understand and more enjoyable.",
+      "draft": true
+    },
+    {
+      "title": "From Idea to Launch: A Smarter Digital Roadmap",
+      "slug": "from-idea-to-launch-a-smarter-digital-roadmap",
+      "category": "Business Growth",
+      "description": "Turn a promising idea into a focused plan with goals, milestones, feedback, testing, and continuous improvement.",
+      "draft": true
+    }
+  ]
+};
+

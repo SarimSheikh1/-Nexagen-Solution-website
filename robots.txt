@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /reference-original/
+Sitemap: https://nexagensolution.com/sitemap.xml
