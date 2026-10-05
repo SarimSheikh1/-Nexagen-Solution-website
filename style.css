@@ -1651,3 +1651,13 @@ main {
 
 
 .partner-details[open] .partner-details-label { visibility: hidden; }
+
+/* Larger header branding on laptop and desktop screens. */
+@media (min-width:768px) {
+  .brand { width:296px; }
+  .brand img { width:280px; height:118px; }
+}
+@media (min-width:1280px) {
+  .brand { width:316px; }
+  .brand img { width:300px; height:128px; }
+}
