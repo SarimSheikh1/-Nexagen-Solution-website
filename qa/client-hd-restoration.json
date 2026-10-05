@@ -1,0 +1,109 @@
+{
+  "mode": "Built-in imagegen / precise-object-edit",
+  "checkedClientLogos": 94,
+  "restoredLowResolutionLogos": 20,
+  "originalFilesRetained": true,
+  "partnerPhotosChecked": 5,
+  "edits": [
+    {
+      "name": "Flying Zone International",
+      "savedAsset": "assets/client-hd/00.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Flying Zone International logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Abid Air International",
+      "savedAsset": "assets/client-hd/01.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Abid Air International logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "RGS Umrah Group of Companies",
+      "savedAsset": "assets/client-hd/02.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied RGS Umrah Group of Companies logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Ahan Travels & Tours",
+      "savedAsset": "assets/client-hd/03.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Ahan Travels & Tours logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Awan Airways",
+      "savedAsset": "assets/client-hd/05.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Awan Airways logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Al-Dalma Travels & Tourism",
+      "savedAsset": "assets/client-hd/09.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Al-Dalma Travels & Tourism logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Jawad International Air Services",
+      "savedAsset": "assets/client-hd/10.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Jawad International Air Services logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Manasik Al Haram",
+      "savedAsset": "assets/client-hd/14.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Manasik Al Haram logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Qafla-e-Sagir",
+      "savedAsset": "assets/client-hd/16.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Qafla-e-Sagir logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Quick Travel Services",
+      "savedAsset": "assets/client-hd/17.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Quick Travel Services logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Rihla Access",
+      "savedAsset": "assets/client-hd/18.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Rihla Access logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Shaheen Wings Travels",
+      "savedAsset": "assets/client-hd/20.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Shaheen Wings Travels logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Sugra International",
+      "savedAsset": "assets/client-hd/21.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Sugra International logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "The Flight Centre",
+      "savedAsset": "assets/client-hd/22.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied The Flight Centre logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Tourvision Travel",
+      "savedAsset": "assets/client-hd/23.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Tourvision Travel logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Waqar-e-Makkah",
+      "savedAsset": "assets/client-hd/24.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Waqar-e-Makkah logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "QWP Travel Services",
+      "savedAsset": "assets/client-hd/25.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied QWP Travel Services logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Premier Travel Group",
+      "savedAsset": "assets/client-hd/26.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Premier Travel Group logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "Premier Adventure",
+      "savedAsset": "assets/client-hd/27.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied Premier Adventure logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    },
+    {
+      "name": "PNH Umrah Services",
+      "savedAsset": "assets/client-hd/28.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied PNH Umrah Services logo to remove blur, compression artifacts and rough pixel edges. High-resolution restoration, clean crisp smooth artwork and readable typography. Preserve EXACT original spelling in every language, all colors, symbols, letterforms, layout and proportions; retain internal badge fills and existing transparency. No redesign, no new words or invented details, no crop of artwork. Genuine transparent backdrop; tightly framed high-resolution output with full logo and small margin."
+    }
+  ]
+}

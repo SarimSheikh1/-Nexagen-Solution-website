@@ -219,35 +219,45 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Waqar-e-Makkah",
-      "image": "assets/optimized/5d0bce9e801297b5.webp",
+      "image": "assets/client-hd/24.png",
       "category": "Travel",
-      "imageOriginal": "assets/waqaremakkah-transparent.png"
+      "imageOriginal": "assets/waqaremakkah-transparent.png",
+      "imageHD": "assets/client-hd/24.png",
+      "imageTransparent": "assets/client-hd/24.png"
     },
     {
       "name": "QWP Travel Services",
-      "image": "assets/optimized/e369e68841d332ae.webp",
+      "image": "assets/client-hd/25.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png",
-      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png"
+      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png",
+      "imageHD": "assets/client-hd/25.png",
+      "imageTransparent": "assets/client-hd/25.png"
     },
     {
       "name": "Premier Travel Group",
-      "image": "assets/optimized/d57c1f9b47616a3a.webp",
+      "image": "assets/client-hd/26.png",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.34-transparent.png"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.34-transparent.png",
+      "imageHD": "assets/client-hd/26.png",
+      "imageTransparent": "assets/client-hd/26.png"
     },
     {
       "name": "Premier Adventure",
-      "image": "assets/optimized/c7aee28b6b30ffc2.webp",
+      "image": "assets/client-hd/27.png",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.40-transparent.png"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.40-transparent.png",
+      "imageHD": "assets/client-hd/27.png",
+      "imageTransparent": "assets/client-hd/27.png"
     },
     {
       "name": "PNH Umrah Services",
-      "image": "assets/optimized/395889726bc0ec00.webp",
+      "image": "assets/client-hd/28.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png",
-      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png"
+      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png",
+      "imageHD": "assets/client-hd/28.png",
+      "imageTransparent": "assets/client-hd/28.png"
     },
     {
       "name": "PIR Travel & Tours",

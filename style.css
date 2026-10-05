@@ -1766,3 +1766,4 @@ input,select,textarea { font-size:16px; }
 
 /* High-resolution transparent brand artwork without the old square canvas. */
 .brand img, .footer-brand img { object-position:center; }
+.client-art img, .client-profile-art img { mix-blend-mode: normal; }
