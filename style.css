@@ -1,4 +1,11 @@
-/* Shared tokens, components and responsive layouts. Brand image is never cropped. */
+/* Shared tokens, components and responsive layouts. */
+@font-face {
+  font-family: 'Inter';
+  src: url('assets/fonts/InterVariable.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
 :root {
   --navy: #0f172a;
   --primary: #0891b2;
@@ -12,7 +19,8 @@
   --shadow: 0 8px 28px #0f172a08;
   --container: 1240px;
   --space: clamp(56px,7vw,100px);
-  font-family: Arial,Helvetica,sans-serif;
+  font-family: 'Inter','Segoe UI',Arial,sans-serif;
+  font-optical-sizing: auto;
   color: var(--navy);
   background: var(--background);
 }
@@ -1709,4 +1717,21 @@ main {
   .navigation { min-height:104px; }
   .brand { height:88px; }
   .brand img { height:88px; }
+}
+
+/* Consistent typography across pages, navigation and forms. */
+body { font-size:16px; }
+h1,h2,h3 { font-weight:650; }
+h1 { line-height:1.12; letter-spacing:-.04em; }
+h2 { line-height:1.2; letter-spacing:-.03em; }
+h3 { line-height:1.4; letter-spacing:-.02em; }
+p,li { line-height:1.8; }
+button,input,select,textarea { font-family:inherit; }
+input,select,textarea { font-size:16px; }
+.nav-links a { font-weight:550; }
+.button { font-weight:600; }
+@media(min-width:1280px) { .nav-links a { font-size:14px; } }
+@media(max-width:767px) {
+  h1 { line-height:1.16; letter-spacing:-.03em; }
+  .reading p { font-size:16px; line-height:1.85; }
 }
