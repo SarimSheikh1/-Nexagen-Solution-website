@@ -1201,7 +1201,7 @@ main {
   display: none;
 }
 
-.partner-details[open] summary span {
+.partner-details[open] summary span[aria-hidden] {
   transform: rotate(45deg);
 }
 
@@ -1648,3 +1648,6 @@ main {
   object-fit: cover;
   object-position: center;
 }
+
+
+.partner-details[open] .partner-details-label { visibility: hidden; }

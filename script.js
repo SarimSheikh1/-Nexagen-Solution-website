@@ -18,7 +18,7 @@ const process = () => `<div class="process-grid">${[
 ['Test & launch','We review functionality, usability and responsive layouts before preparing the release.'],
 ['Support & improve','We agree on documentation, handover and the ongoing support your solution needs.']
 ].map(([t,d],i)=>`<article class="process-item"><span>0${i+1}</span><h3>${t}</h3><p>${d}</p></article>`).join('')}</div>`;
-const teamCards = () => `<div class="grid team-grid">${partners.map(p=>`<article class="team-card"><img src="${escape(p.photo)}" alt="${escape(p.name)}" width="400" height="310" loading="lazy" decoding="async"><div class="team-copy"><h3>${escape(p.name)}</h3><p>${escape(p.role)}</p><details class="partner-details"><summary>Partner details <span aria-hidden="true">+</span></summary><p>${escape(p.responsibility)}</p></details></div></article>`).join('')}</div>`;
+const teamCards = () => `<div class="grid team-grid">${partners.map(p=>`<article class="team-card"><img src="${escape(p.photo)}" alt="${escape(p.name)}" width="400" height="310" loading="lazy" decoding="async"><div class="team-copy"><h3>${escape(p.name)}</h3><p>${escape(p.role)}</p><details class="partner-details"><summary aria-label="Toggle partner details"><span class="partner-details-label">Partner details</span><span aria-hidden="true">+</span></summary><p>${escape(p.responsibility)}</p></details></div></article>`).join('')}</div>`;
 const clientHref = client => `#/portal/client/${encodeURIComponent(client.name)}`;
 const featuredClients = () => `<div class="featured-client-grid">${[logos[0],logos[1],logos.find(l=>l.name==='Afino Textile Mills'),logos.find(l=>l.name==='Tulips')].map((client,i)=>`<article class="featured-client"><div class="client-art"><img ${logoImage(client)} alt="${escape(client.name)} logo" width="480" height="240" loading="lazy" decoding="async"><span class="client-art-caption">CLIENT IDENTITY / ${escape(client.category.toUpperCase())}</span></div><div class="featured-client-copy"><span class="eyebrow">${escape(client.category)} · CLIENT PROFILE</span><h3>${escape(client.name)}</h3><p>${client.category==='Travel'?'A travel brand represented in our client portal.':'A business represented in our client portal.'}</p><a class="text-link" href="${clientHref(client)}">Explore client profile <span aria-hidden="true">↗</span></a></div></article>`).join('')}</div>`;
 const partnerSection = () => section(head('THE PEOPLE BEHIND NEXAGEN','Our partners.','Meet the people behind Nexagen Solution.')+teamCards());
@@ -117,5 +117,6 @@ function draw(){const list=document.getElementById('feedbackList');list.replaceC
 document.getElementById('feedbackForm').addEventListener('submit',e=>{e.preventDefault();const form=e.currentTarget;const data=Object.fromEntries(new FormData(form));if(!data.name.trim()||!data.feedback.trim())return;const items=read();items.push(data);if(save(items)){form.reset();draw();}});draw();}
 window.addEventListener('hashchange',()=>render());render(true);
 })();
+
 
 
