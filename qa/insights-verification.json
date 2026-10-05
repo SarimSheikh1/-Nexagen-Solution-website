@@ -1,0 +1,35 @@
+{
+  "layout": [
+    {
+      "width": 360,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "cards": 7,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "cards": 7,
+      "overflow": false
+    }
+  ],
+  "allSevenTopicLinks": true,
+  "search": true,
+  "category": true,
+  "clear": true,
+  "emptyState": true,
+  "retinaFooter": true
+}

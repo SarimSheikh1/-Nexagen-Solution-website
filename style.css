@@ -1661,3 +1661,44 @@ main {
   .brand { width:316px; }
   .brand img { width:300px; height:128px; }
 }
+
+/* Insights: readable cards and useful topic navigation. */
+.insights-intro { display:flex; justify-content:space-between; align-items:start; gap:24px; margin-bottom:32px; }
+.insights-intro h2 { font-size:clamp(25px,3vw,36px); margin:10px 0 12px; }
+.insights-intro p { margin-bottom:0; max-width:620px; }
+.insight-meta { display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin-bottom:18px; }
+.insight-meta .eyebrow { margin:0; font-size:10px; }
+.insight-status { display:inline-block; flex-shrink:0; padding:5px 9px; border-radius:6px; background:#eef4f8; color:#475569; font-size:11px; line-height:1.5; }
+.insights-toolbar { padding:20px; border:1px solid var(--border); border-radius:12px; background:#f8fafc; }
+.insights-toolbar label { max-width:none; }
+.insights-toolbar label:first-child { flex:2; }
+.insights-toolbar select { width:100%; max-width:none; }
+.insights-toolbar button { flex-shrink:0; }
+.insights-grid { align-items:stretch; }
+.insight-card { display:flex; flex-direction:column; min-width:0; }
+.insight-card h3 { font-size:23px; line-height:1.35; }
+.insight-card h3 a { color:var(--navy); text-decoration:none; }
+.insight-card h3 a:hover { color:var(--action); }
+.insight-card .text-link { margin-top:auto; padding-top:16px; }
+.insight-card .blog-art { height:145px; flex-shrink:0; margin-bottom:22px; background:linear-gradient(135deg,#e5f4f8,#f1f5f9); }
+.insight-card .blog-art-2, .insight-card .blog-art-4 { background:linear-gradient(135deg,#eaf0ff,#f3f5fb); }
+.insight-card .blog-art-3, .insight-card .blog-art-6 { background:linear-gradient(135deg,#ecf8f2,#f4f8f6); }
+.insights-empty { grid-column:1 / -1; padding:40px 24px; text-align:center; background:#f8fafc; border:1px dashed var(--border); border-radius:12px; }
+.planning-questions { display:grid; gap:16px; margin:24px 0; line-height:1.8; }
+.related-insights { display:grid; gap:14px; margin-top:24px; }
+.related-insights a { display:grid; grid-template-columns:1fr auto; padding:18px 20px; gap:8px 16px; border:1px solid var(--border); border-radius:10px; color:var(--navy); text-decoration:none; }
+.related-insights .eyebrow { grid-column:1 / -1; margin:0; font-size:10px; }
+.related-insights a:hover { border-color:var(--action); }
+/* A compact, sharp brand panel with a clean background in the footer. */
+.footer-grid .footer-brand { display:flex; align-items:center; justify-content:center; width:min(300px,100%); height:100px; background:#fff; border:1px solid #e2e8f0; border-radius:12px; overflow:hidden; margin-bottom:22px; }
+.footer-brand img { width:100%; height:100%; aspect-ratio:auto; object-fit:cover; object-position:center; }
+@media(max-width:767px) {
+  .insights-intro { flex-direction:column; gap:14px; }
+  .insights-toolbar { display:grid; grid-template-columns:1fr; padding:16px; gap:16px; }
+  .insights-toolbar label { width:100%; }
+  .insight-card { padding:22px; }
+  .insight-card h3 { font-size:21px; }
+  .insight-card .blog-art { height:125px; padding:20px; }
+  .footer-grid .footer-brand { width:min(280px,100%); height:96px; }
+}
+.footer-brand img { object-position: center 42%; }

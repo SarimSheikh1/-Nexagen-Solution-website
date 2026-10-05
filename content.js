@@ -857,42 +857,72 @@ window.NEXAGEN_CONTENT = {
       "slug": "top-web-trends-every-business-should-know",
       "category": "Web Development",
       "description": "Explore practical design and development ideas that help websites feel faster, clearer, and more valuable.",
-      "draft": true
+      "draft": true,
+      "planningQuestions": [
+        "What should a visitor be able to find or do on your website?",
+        "Which pages and features matter most to customers using a phone?",
+        "How will you review loading speed, navigation and inquiry quality after launch?"
+      ]
     },
     {
       "title": "Simple Cybersecurity Habits That Protect Your Team",
       "slug": "simple-cybersecurity-habits-that-protect-your-team",
       "category": "Security",
       "description": "Build safer routines around passwords, access, backups, and staff awareness without slowing your business down.",
-      "draft": true
+      "draft": true,
+      "planningQuestions": [
+        "Who needs access to each business tool, and who reviews that access?",
+        "How are account recovery and staff departures handled?",
+        "When were backups and the recovery process last reviewed with your IT team?"
+      ]
     },
     {
       "title": "SEO Strategies That Turn Searches Into Customers",
       "slug": "seo-strategies-that-turn-searches-into-customers",
       "category": "Marketing",
       "description": "Learn how useful content, technical quality, and local visibility work together to attract the right audience.",
-      "draft": true
+      "draft": true,
+      "planningQuestions": [
+        "Which customer questions should your website answer clearly?",
+        "Are service descriptions, locations and contact details easy to find?",
+        "How will you measure relevant inquiries alongside search traffic?"
+      ]
     },
     {
       "title": "A Practical Guide to Moving Your Business to the Cloud",
       "slug": "a-practical-guide-to-moving-your-business-to-the-cloud",
       "category": "Cloud",
       "description": "A clear path for planning migration, choosing tools, protecting information, and keeping your team productive.",
-      "draft": true
+      "draft": true,
+      "planningQuestions": [
+        "Which applications and information would need to move?",
+        "What access, privacy and backup requirements must your team review?",
+        "How will you test the move and support staff during the transition?"
+      ]
     },
     {
       "title": "Designing Mobile Experiences People Enjoy Using",
       "slug": "designing-mobile-experiences-people-enjoy-using",
       "category": "Product Design",
       "description": "Discover the small interface decisions that make mobile apps easier to understand and more enjoyable.",
-      "draft": true
+      "draft": true,
+      "planningQuestions": [
+        "What is the main task someone should complete on a phone?",
+        "Can users read the content and reach important controls comfortably?",
+        "Where do people hesitate, make mistakes or need clearer feedback?"
+      ]
     },
     {
       "title": "From Idea to Launch: A Smarter Digital Roadmap",
       "slug": "from-idea-to-launch-a-smarter-digital-roadmap",
       "category": "Business Growth",
       "description": "Turn a promising idea into a focused plan with goals, milestones, feedback, testing, and continuous improvement.",
-      "draft": true
+      "draft": true,
+      "planningQuestions": [
+        "What business problem should the first release solve?",
+        "Which features are essential, and which can wait for a later release?",
+        "Who will review milestones, test the experience and collect feedback after launch?"
+      ]
     }
   ]
 };
