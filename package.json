@@ -1,0 +1,15 @@
+{
+  "name": "nexagen-solution",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nexagen Solution static company website",
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "start": "node tools/serve.mjs",
+    "build": "node tools/build.mjs",
+    "check": "node --check script.js && node --check content.js",
+    "test": "node qa/check-top-clients.cjs"
+  },
+  "devDependencies": {"@playwright/test": "^1.56.0"}
+}
+

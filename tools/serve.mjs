@@ -1,0 +1,6 @@
+import {createServer} from 'node:http';
+import {readFile,stat} from 'node:fs/promises';
+import {resolve,extname,sep} from 'node:path';
+const root=resolve(process.env.SERVE_DIST==='1'?'dist':'.');
+const types={'.html':'text/html; charset=utf-8','.js':'application/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.jpeg':'image/jpeg','.jpg':'image/jpeg','.svg':'image/svg+xml','.xml':'application/xml','.txt':'text/plain'};
+createServer(async(req,res)=>{try{const url=new URL(req.url,'http://localhost');const path=resolve(root,'.'+decodeURIComponent(url.pathname==='/'?'/index.html':url.pathname));if(path!==root&&!path.startsWith(root+sep))throw new Error('invalid path');if(!['GET','HEAD'].includes(req.method)){res.writeHead(405);return res.end();}if(!(await stat(path)).isFile())throw new Error('not a file');const data=await readFile(path);res.writeHead(200,{'Content-Type':types[extname(path)]||'application/octet-stream','X-Content-Type-Options':'nosniff'});res.end(req.method==='HEAD'?undefined:data);}catch{res.writeHead(404,{'Content-Type':'text/plain'});res.end('Not found');}}).listen(4173,'127.0.0.1',()=>console.log('Nexagen preview: http://127.0.0.1:4173'));
