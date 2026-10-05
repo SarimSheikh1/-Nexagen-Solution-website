@@ -1702,3 +1702,11 @@ main {
   .footer-grid .footer-brand { width:min(280px,100%); height:96px; }
 }
 .footer-brand img { object-position: center 42%; }
+
+/* Keep the visible brand artwork level with the header controls. */
+.brand img { object-position:center 41%; }
+@media(min-width:768px) {
+  .navigation { min-height:104px; }
+  .brand { height:88px; }
+  .brand img { height:88px; }
+}
