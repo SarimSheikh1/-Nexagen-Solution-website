@@ -45,7 +45,6 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-hd/01.png",
       "category": "Travel",
       "imageOriginal": "assets/abid-air-international-transparent.png",
-      "imageRetina": "assets/abid-air-international-transparent.png",
       "imageHD": "assets/client-hd/01.png",
       "imageTransparent": "assets/client-hd/01.png"
     },
@@ -54,7 +53,6 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-hd/02.png",
       "category": "Travel",
       "imageOriginal": "assets/rgs-umrah-group-transparent.png",
-      "imageRetina": "assets/rgs-umrah-group-transparent.png",
       "imageHD": "assets/client-hd/02.png",
       "imageTransparent": "assets/client-hd/02.png"
     },
@@ -165,7 +163,6 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-hd/17.png",
       "category": "Travel",
       "imageOriginal": "assets/quicktravels-transparent.png",
-      "imageRetina": "assets/quicktravels-transparent.png",
       "imageHD": "assets/client-hd/17.png",
       "imageTransparent": "assets/client-hd/17.png"
     },
@@ -197,7 +194,6 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-hd/21.png",
       "category": "Travel",
       "imageOriginal": "assets/sugralogo-transparent.png",
-      "imageRetina": "assets/sugralogo-transparent.png",
       "imageHD": "assets/client-hd/21.png",
       "imageTransparent": "assets/client-hd/21.png"
     },
@@ -230,7 +226,6 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-hd/25.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png",
-      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png",
       "imageHD": "assets/client-hd/25.png",
       "imageTransparent": "assets/client-hd/25.png"
     },
@@ -255,7 +250,6 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-hd/28.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png",
-      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png",
       "imageHD": "assets/client-hd/28.png",
       "imageTransparent": "assets/client-hd/28.png"
     },
