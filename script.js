@@ -6,7 +6,7 @@ const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp
 const logoImage = logo => `src="${escape(logo.image)}"${logo.imageRetina?` srcset="${escape(encodeURI(decodeURIComponent(logo.image)))} 1x, ${escape(encodeURI(decodeURIComponent(logo.imageRetina)))} 2x"`:''}`;
 const button = (text, href, secondary=false) => `<a class="button${secondary?' secondary':''}" href="${escape(href)}">${escape(text)} <span aria-hidden="true">↗</span></a>`;
 const head = (label,title,description='') => `<div class="section-head"><div><span class="eyebrow">${escape(label)}</span><h2>${escape(title)}</h2>${description?`<p>${escape(description)}</p>`:''}</div></div>`;
-const intro = (label,title,description='') => `<section class="page-intro container"><div class="breadcrumb"><a href="#/home">Home</a><span aria-hidden="true">/</span><span>${escape(label)}</span></div><span class="eyebrow">${escape(label)}</span><h1>${escape(title)}</h1><p>${escape(description)}</p></section>`;
+const intro = (label,title,description='') => `<section class="page-intro container"><span class="eyebrow">${escape(label)}</span><h1>${escape(title)}</h1><p>${escape(description)}</p></section>`;
 const section = (content, cls='') => `<section class="section ${cls}"><div class="container">${content}</div></section>`;
 const cta = () => section(`<div class="cta-inner"><div><span class="eyebrow">YOUR NEXT CHAPTER</span><h2>Let’s make technology work for your business.</h2><p>Bring your idea, your challenge, or the system you want to improve.</p></div>${button('Discuss Your Project','#/contact')}</div>`,'white');
 const serviceCards = items => `<div class="grid">${items.map((s,i)=>`<article class="card"><span class="card-number">${String(i+1).padStart(2,'0')} / SOLUTIONS</span><h3>${escape(s.title)}</h3><p>${escape(s.description)}</p><a class="text-link" href="#/services/${s.slug}">Explore service <span aria-hidden="true">↗</span></a></article>`).join('')}</div>`;
@@ -127,6 +127,7 @@ document.querySelectorAll('.brand, .footer-brand').forEach(link=>link.addEventLi
 }));
 window.addEventListener('hashchange',()=>render());render(true);
 })();
+
 
 
 
