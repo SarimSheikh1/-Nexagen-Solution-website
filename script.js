@@ -115,6 +115,13 @@ document.getElementById('loadMap').addEventListener('click',e=>{document.getElem
 function setupFeedback(){const key='nexagenClientFeedback';const read=()=>{try{const saved=JSON.parse(localStorage.getItem(key)||'[]');return Array.isArray(saved)?saved:[];}catch{return [];}};const status=document.getElementById('feedbackStatus');const save=items=>{try{localStorage.setItem(key,JSON.stringify(items));status.textContent='Saved in this browser only. Not submitted to Nexagen.';return true;}catch{status.textContent='Browser storage is unavailable. Your feedback could not be saved.';return false;}};
 function draw(){const list=document.getElementById('feedbackList');list.replaceChildren();read().forEach((item,i)=>{const entry=document.createElement('article');entry.className='feedback-entry';const p=document.createElement('p');p.textContent=item.feedback;const name=document.createElement('strong');name.textContent=`${item.name}${item.role?' · '+item.role:''}`;const actions=document.createElement('div');for(const action of ['Edit','Remove']){const b=document.createElement('button');b.type='button';b.textContent=action;b.addEventListener('click',()=>{const items=read();if(action==='Remove'){items.splice(i,1);if(save(items))draw();}else{const updated=prompt('Edit your locally saved feedback:',item.feedback);if(updated?.trim()){items[i]={...item,feedback:updated.trim()};if(save(items))draw();}}});actions.append(b);}entry.append(p,name,actions);list.append(entry);});}
 document.getElementById('feedbackForm').addEventListener('submit',e=>{e.preventDefault();const form=e.currentTarget;const data=Object.fromEntries(new FormData(form));if(!data.name.trim()||!data.feedback.trim())return;const items=read();items.push(data);if(save(items)){form.reset();draw();}});draw();}
+document.querySelectorAll('.brand, .footer-brand').forEach(link=>link.addEventListener('click',event=>{
+  if(event.button!==0||event.ctrlKey||event.metaKey||event.shiftKey||event.altKey)return;
+  event.preventDefault();
+  const home=new URL(window.location.href);home.hash='/home';home.search='';
+  window.history.replaceState(window.history.state,'',home.href);
+  window.location.reload();
+}));
 window.addEventListener('hashchange',()=>render());render(true);
 })();
 
