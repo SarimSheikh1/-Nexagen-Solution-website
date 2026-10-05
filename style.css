@@ -1640,3 +1640,11 @@ main {
   .featured-client-copy p { margin-bottom:20px; }
   .client-art-caption { font-size:9px; left:20px; letter-spacing:.08em; }
 }
+
+/* High-resolution brand artwork; trim only surrounding white canvas in its frame. */
+.brand img, .footer-brand img {
+  aspect-ratio: 374 / 215;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}

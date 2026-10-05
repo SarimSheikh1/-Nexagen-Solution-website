@@ -42,13 +42,15 @@ window.NEXAGEN_CONTENT = {
       "name": "Abid Air International",
       "image": "assets/optimized/94608e4f209b58fc.webp",
       "category": "Travel",
-      "imageOriginal": "assets/abid-air-international-transparent.png"
+      "imageOriginal": "assets/abid-air-international-transparent.png",
+      "imageRetina": "assets/abid-air-international-transparent.png"
     },
     {
       "name": "RGS Umrah Group of Companies",
       "image": "assets/optimized/b6ea6cedf815eb0c.webp",
       "category": "Travel",
-      "imageOriginal": "assets/rgs-umrah-group-transparent.png"
+      "imageOriginal": "assets/rgs-umrah-group-transparent.png",
+      "imageRetina": "assets/rgs-umrah-group-transparent.png"
     },
     {
       "name": "Ahan Travels & Tours",
@@ -60,7 +62,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Al-Naeem Travel & Tours",
       "image": "assets/optimized/9e5dfbaf8d70713b.webp",
       "category": "Travel",
-      "imageOriginal": "assets/al-naeem-transparent.png"
+      "imageOriginal": "assets/al-naeem-transparent.png",
+      "imageRetina": "assets/al-naeem-transparent.png"
     },
     {
       "name": "Awan Airways",
@@ -72,7 +75,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Azam Al Haram",
       "image": "assets/optimized/300b898365619b83.webp",
       "category": "Travel",
-      "imageOriginal": "assets/azamalharam-transparent.png"
+      "imageOriginal": "assets/azamalharam-transparent.png",
+      "imageRetina": "assets/azamalharam-transparent.png"
     },
     {
       "name": "Azan-e-Madina Travel",
@@ -85,7 +89,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Bin Naeem Travels",
       "image": "assets/optimized/71f78ffd26da36ad.webp",
       "category": "Travel",
-      "imageOriginal": "assets/binnaeem-transparent.png"
+      "imageOriginal": "assets/binnaeem-transparent.png",
+      "imageRetina": "assets/binnaeem-transparent.png"
     },
     {
       "name": "Al-Dalma Travels & Tourism",
@@ -103,13 +108,15 @@ window.NEXAGEN_CONTENT = {
       "name": "Kazmi Paradise",
       "image": "assets/optimized/31501c6746c99976.webp",
       "category": "Travel",
-      "imageOriginal": "assets/kazmi-transparent.png"
+      "imageOriginal": "assets/kazmi-transparent.png",
+      "imageRetina": "assets/kazmi-transparent.png"
     },
     {
       "name": "Madina Shareef",
       "image": "assets/optimized/70126627cf0ca566.webp",
       "category": "Travel",
-      "imageOriginal": "assets/madina-shareef-transparent.png"
+      "imageOriginal": "assets/madina-shareef-transparent.png",
+      "imageRetina": "assets/madina-shareef-transparent.png"
     },
     {
       "name": "Maher Travel & Tourism",
@@ -125,7 +132,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Oasis",
       "image": "assets/optimized/d944f857816ada56.webp",
       "category": "Travel",
-      "imageOriginal": "assets/oasis-transparent.png"
+      "imageOriginal": "assets/oasis-transparent.png",
+      "imageRetina": "assets/oasis-transparent.png"
     },
     {
       "name": "Qafla-e-Sagir",
@@ -137,7 +145,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Quick Travel Services",
       "image": "assets/optimized/b3643f04975db873.webp",
       "category": "Travel",
-      "imageOriginal": "assets/quicktravels-transparent.png"
+      "imageOriginal": "assets/quicktravels-transparent.png",
+      "imageRetina": "assets/quicktravels-transparent.png"
     },
     {
       "name": "Rihla Access",
@@ -149,7 +158,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Sawar-e-Haram",
       "image": "assets/optimized/0a831bcb52c7453d.webp",
       "category": "Travel",
-      "imageOriginal": "assets/sawareharam-transparent.png"
+      "imageOriginal": "assets/sawareharam-transparent.png",
+      "imageRetina": "assets/sawareharam-transparent.png"
     },
     {
       "name": "Shaheen Wings Travels",
@@ -161,7 +171,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Sugra International",
       "image": "assets/optimized/256cc9a26d03195c.webp",
       "category": "Travel",
-      "imageOriginal": "assets/sugralogo-transparent.png"
+      "imageOriginal": "assets/sugralogo-transparent.png",
+      "imageRetina": "assets/sugralogo-transparent.png"
     },
     {
       "name": "The Flight Centre",
@@ -185,7 +196,8 @@ window.NEXAGEN_CONTENT = {
       "name": "QWP Travel Services",
       "image": "assets/optimized/e369e68841d332ae.webp",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png",
+      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.09-transparent.png"
     },
     {
       "name": "Premier Travel Group",
@@ -203,19 +215,22 @@ window.NEXAGEN_CONTENT = {
       "name": "PNH Umrah Services",
       "image": "assets/optimized/395889726bc0ec00.webp",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png",
+      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.09-transparent.png"
     },
     {
       "name": "PIR Travel & Tours",
       "image": "assets/optimized/c756c49713e7e3a4.webp",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.18-transparent.png"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.18-transparent.png",
+      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.25.18-transparent.png"
     },
     {
       "name": "World Class Travel & Tours",
       "image": "assets/optimized/9c4089419b99ac77.webp",
       "category": "Travel",
-      "imageOriginal": "assets/worldclass-transparent.png"
+      "imageOriginal": "assets/worldclass-transparent.png",
+      "imageRetina": "assets/worldclass-transparent.png"
     },
     {
       "name": "Azan E Madina Travels",
@@ -606,7 +621,8 @@ window.NEXAGEN_CONTENT = {
       "name": "Supra Transport",
       "image": "assets/optimized/749c0d307a12d981.webp",
       "category": "Other businesses",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.20.34-transparent.png"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.20.34-transparent.png",
+      "imageRetina": "assets/WhatsApp%20Image%202026-09-08%20at%2001.20.34-transparent.png"
     },
     {
       "name": "Faryad Decor Hub",
