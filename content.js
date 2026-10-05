@@ -76,9 +76,10 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Azan-e-Madina Travel",
-      "image": "assets/optimized/2046ce71c9bbcd4f.webp",
+      "image": "assets/client-transparent/07-azan-e-madina-travel.png",
       "category": "Travel",
-      "imageOriginal": "assets/azan-e-madinah-logo-transparent.png"
+      "imageOriginal": "assets/azan-e-madinah-logo-transparent.png",
+      "imageTransparent": "assets/client-transparent/07-azan-e-madina-travel.png"
     },
     {
       "name": "Bin Naeem Travels",
@@ -218,282 +219,388 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Azan E Madina Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.40.21.jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/31-azan-e-madina-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.40.21.jpeg",
+      "imageTransparent": "assets/client-transparent/31-azan-e-madina-travels.png"
     },
     {
       "name": "Ahmed Noor Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(2).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/32-ahmed-noor-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(2).jpeg",
+      "imageTransparent": "assets/client-transparent/32-ahmed-noor-travel---tours.png"
     },
     {
       "name": "Air Circle Travel & Tourism",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(3).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/33-air-circle-travel---tourism.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(3).jpeg",
+      "imageTransparent": "assets/client-transparent/33-air-circle-travel---tourism.png"
     },
     {
       "name": "Air Touch Holidays",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(4).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/34-air-touch-holidays.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(4).jpeg",
+      "imageTransparent": "assets/client-transparent/34-air-touch-holidays.png"
     },
     {
       "name": "Al Aitemar Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(5).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/35-al-aitemar-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(5).jpeg",
+      "imageTransparent": "assets/client-transparent/35-al-aitemar-travel---tours.png"
     },
     {
       "name": "Al Dayan Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(6).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/36-al-dayan-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(6).jpeg",
+      "imageTransparent": "assets/client-transparent/36-al-dayan-travel---tours.png"
     },
     {
       "name": "Al-Deafah",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(7).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/37-al-deafah.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(7).jpeg",
+      "imageTransparent": "assets/client-transparent/37-al-deafah.png"
     },
     {
       "name": "Al Fajr International Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(8).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/38-al-fajr-international-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(8).jpeg",
+      "imageTransparent": "assets/client-transparent/38-al-fajr-international-travels.png"
     },
     {
       "name": "Al Falak Aviation",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(9).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/39-al-falak-aviation.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(9).jpeg",
+      "imageTransparent": "assets/client-transparent/39-al-falak-aviation.png"
     },
     {
       "name": "Al Fareed Fly Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(10).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/40-al-fareed-fly-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(10).jpeg",
+      "imageTransparent": "assets/client-transparent/40-al-fareed-fly-travel---tours.png"
     },
     {
       "name": "Al-Hafiz International Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(11).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/41-al-hafiz-international-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(11).jpeg",
+      "imageTransparent": "assets/client-transparent/41-al-hafiz-international-travel---tours.png"
     },
     {
       "name": "Al-Khalifa Travel",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(12).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/42-al-khalifa-travel.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(12).jpeg",
+      "imageTransparent": "assets/client-transparent/42-al-khalifa-travel.png"
     },
     {
       "name": "Al-Khandwani International Travel & Tours",
-      "image": "assets/optimized/a9d19d42b404d589.webp",
+      "image": "assets/client-transparent/43-al-khandwani-international-travel---tours.png",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(13).jpeg"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(13).jpeg",
+      "imageTransparent": "assets/client-transparent/43-al-khandwani-international-travel---tours.png"
     },
     {
       "name": "AMT&T",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(14).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/44-amt-t.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(14).jpeg",
+      "imageTransparent": "assets/client-transparent/44-amt-t.png"
     },
     {
       "name": "Al-Mashriq Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(15).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/45-al-mashriq-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(15).jpeg",
+      "imageTransparent": "assets/client-transparent/45-al-mashriq-travel---tours.png"
     },
     {
       "name": "Al Murad Aviation",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(17).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/46-al-murad-aviation.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(17).jpeg",
+      "imageTransparent": "assets/client-transparent/46-al-murad-aviation.png"
     },
     {
       "name": "Al Noor Al Amin Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(18).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/47-al-noor-al-amin-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(18).jpeg",
+      "imageTransparent": "assets/client-transparent/47-al-noor-al-amin-travel---tours.png"
     },
     {
       "name": "Al Qadeer Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(19).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/48-al-qadeer-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(19).jpeg",
+      "imageTransparent": "assets/client-transparent/48-al-qadeer-travels.png"
     },
     {
       "name": "Al Rehmat Travel & Tours",
-      "image": "assets/optimized/9b58404a31c586d6.webp",
+      "image": "assets/client-transparent/49-al-rehmat-travel---tours.png",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(21).jpeg"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(21).jpeg",
+      "imageTransparent": "assets/client-transparent/49-al-rehmat-travel---tours.png"
     },
     {
       "name": "Al-Saad Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(22).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/50-al-saad-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(22).jpeg",
+      "imageTransparent": "assets/client-transparent/50-al-saad-travel---tours.png"
     },
     {
       "name": "Al Safar Wal Siyahah",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(23).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/51-al-safar-wal-siyahah.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(23).jpeg",
+      "imageTransparent": "assets/client-transparent/51-al-safar-wal-siyahah.png"
     },
     {
       "name": "Al Safia Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(24).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/52-al-safia-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(24).jpeg",
+      "imageTransparent": "assets/client-transparent/52-al-safia-travels.png"
     },
     {
       "name": "Al-Tayyar Travel Advisor",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(25).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/53-al-tayyar-travel-advisor.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(25).jpeg",
+      "imageTransparent": "assets/client-transparent/53-al-tayyar-travel-advisor.png"
     },
     {
       "name": "Alaamir International",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(26).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/54-alaamir-international.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(26).jpeg",
+      "imageTransparent": "assets/client-transparent/54-alaamir-international.png"
     },
     {
       "name": "Alamgir Travel Point Services",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(27).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/55-alamgir-travel-point-services.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(27).jpeg",
+      "imageTransparent": "assets/client-transparent/55-alamgir-travel-point-services.png"
     },
     {
       "name": "Ali Universal Travel & Tourism",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(28).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/56-ali-universal-travel---tourism.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(28).jpeg",
+      "imageTransparent": "assets/client-transparent/56-ali-universal-travel---tourism.png"
     },
     {
       "name": "Afaf Rabana Travels & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56.jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/57-afaf-rabana-travels---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56.jpeg",
+      "imageTransparent": "assets/client-transparent/57-afaf-rabana-travels---tours.png"
     },
     {
       "name": "Flight Express",
-      "image": "assets/optimized/2cd78d26b47615bf.webp",
+      "image": "assets/client-transparent/58-flight-express.png",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(1).jpeg"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(1).jpeg",
+      "imageTransparent": "assets/client-transparent/58-flight-express.png"
     },
     {
       "name": "Five Star Travel",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(2).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/59-five-star-travel.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(2).jpeg",
+      "imageTransparent": "assets/client-transparent/59-five-star-travel.png"
     },
     {
       "name": "Fatmi Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(3).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/60-fatmi-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(3).jpeg",
+      "imageTransparent": "assets/client-transparent/60-fatmi-travel---tours.png"
     },
     {
       "name": "New Fast Shine Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(4).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/61-new-fast-shine-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(4).jpeg",
+      "imageTransparent": "assets/client-transparent/61-new-fast-shine-travel---tours.png"
     },
     {
       "name": "Airways Express",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(6).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/62-airways-express.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(6).jpeg",
+      "imageTransparent": "assets/client-transparent/62-airways-express.png"
     },
     {
       "name": "Emaar Pakistan Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(9).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/63-emaar-pakistan-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(9).jpeg",
+      "imageTransparent": "assets/client-transparent/63-emaar-pakistan-travel---tours.png"
     },
     {
       "name": "Durrani International Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(11).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/64-durrani-international-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(11).jpeg",
+      "imageTransparent": "assets/client-transparent/64-durrani-international-travel---tours.png"
     },
     {
       "name": "92 Madina",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(12).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/65-92-madina.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(12).jpeg",
+      "imageTransparent": "assets/client-transparent/65-92-madina.png"
     },
     {
       "name": "Dost Umrah Group Services",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(13).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/66-dost-umrah-group-services.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(13).jpeg",
+      "imageTransparent": "assets/client-transparent/66-dost-umrah-group-services.png"
     },
     {
       "name": "Divine Travels & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(14).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/67-divine-travels---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(14).jpeg",
+      "imageTransparent": "assets/client-transparent/67-divine-travels---tours.png"
     },
     {
       "name": "Deal Air Travel",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(16).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/68-deal-air-travel.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(16).jpeg",
+      "imageTransparent": "assets/client-transparent/68-deal-air-travel.png"
     },
     {
       "name": "Dar Al Haram Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(17).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/69-dar-al-haram-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(17).jpeg",
+      "imageTransparent": "assets/client-transparent/69-dar-al-haram-travels.png"
     },
     {
       "name": "Crown International Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(18).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/70-crown-international-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(18).jpeg",
+      "imageTransparent": "assets/client-transparent/70-crown-international-travels.png"
     },
     {
       "name": "Cheapfly Travels & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(21).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/71-cheapfly-travels---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(21).jpeg",
+      "imageTransparent": "assets/client-transparent/71-cheapfly-travels---tours.png"
     },
     {
       "name": "Buraq Travel Network",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(24).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/72-buraq-travel-network.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(24).jpeg",
+      "imageTransparent": "assets/client-transparent/72-buraq-travel-network.png"
     },
     {
       "name": "BS Travel Services",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(25).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/73-bs-travel-services.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(25).jpeg",
+      "imageTransparent": "assets/client-transparent/73-bs-travel-services.png"
     },
     {
       "name": "Brothers International Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(26).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/74-brothers-international-travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(26).jpeg",
+      "imageTransparent": "assets/client-transparent/74-brothers-international-travels.png"
     },
     {
       "name": "Amal Holidays",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(29).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/75-amal-holidays.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(29).jpeg",
+      "imageTransparent": "assets/client-transparent/75-amal-holidays.png"
     },
     {
       "name": "Anas Tours & Travels",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(32).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/76-anas-tours---travels.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(32).jpeg",
+      "imageTransparent": "assets/client-transparent/76-anas-tours---travels.png"
     },
     {
       "name": "Areej Travel & Tourism",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(33).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/77-areej-travel---tourism.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(33).jpeg",
+      "imageTransparent": "assets/client-transparent/77-areej-travel---tourism.png"
     },
     {
       "name": "Asean Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(36).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/78-asean-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(36).jpeg",
+      "imageTransparent": "assets/client-transparent/78-asean-travel---tours.png"
     },
     {
       "name": "ASM Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(37).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/79-asm-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(37).jpeg",
+      "imageTransparent": "assets/client-transparent/79-asm-travel---tours.png"
     },
     {
       "name": "Umar Travel & Tours",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(40).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/80-umar-travel---tours.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(40).jpeg",
+      "imageTransparent": "assets/client-transparent/80-umar-travel---tours.png"
     },
     {
       "name": "Azhan Travel",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(42).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/81-azhan-travel.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(42).jpeg",
+      "imageTransparent": "assets/client-transparent/81-azhan-travel.png"
     },
     {
       "name": "Babul International Travel & Tours",
-      "image": "assets/optimized/cc3e32c1d9a55404.webp",
+      "image": "assets/client-transparent/82-babul-international-travel---tours.png",
       "category": "Travel",
-      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(43).jpeg"
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(43).jpeg",
+      "imageTransparent": "assets/client-transparent/82-babul-international-travel---tours.png"
     },
     {
       "name": "CLO",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(20).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/83-clo.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(20).jpeg",
+      "imageTransparent": "assets/client-transparent/83-clo.png"
     },
     {
       "name": "Experts",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(7).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/84-experts.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(7).jpeg",
+      "imageTransparent": "assets/client-transparent/84-experts.png"
     },
     {
       "name": "CFD",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(23).jpeg",
-      "category": "Travel"
+      "image": "assets/client-transparent/85-cfd.png",
+      "category": "Travel",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(23).jpeg",
+      "imageTransparent": "assets/client-transparent/85-cfd.png"
     },
     {
       "name": "Supra Transport",
@@ -503,23 +610,31 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Faryad Decor Hub",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(5).jpeg",
-      "category": "Other businesses"
+      "image": "assets/client-transparent/87-faryad-decor-hub.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(5).jpeg",
+      "imageTransparent": "assets/client-transparent/87-faryad-decor-hub.png"
     },
     {
       "name": "Emaan Enterprises",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(8).jpeg",
-      "category": "Other businesses"
+      "image": "assets/client-transparent/88-emaan-enterprises.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(8).jpeg",
+      "imageTransparent": "assets/client-transparent/88-emaan-enterprises.png"
     },
     {
       "name": "Deeds",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(15).jpeg",
-      "category": "Other businesses"
+      "image": "assets/client-transparent/89-deeds.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(15).jpeg",
+      "imageTransparent": "assets/client-transparent/89-deeds.png"
     },
     {
       "name": "Chawla Stitching Studio",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(22).jpeg",
-      "category": "Other businesses"
+      "image": "assets/client-transparent/90-chawla-stitching-studio.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(22).jpeg",
+      "imageTransparent": "assets/client-transparent/90-chawla-stitching-studio.png"
     },
     {
       "name": "Afino Textile Mills",
@@ -535,8 +650,10 @@ window.NEXAGEN_CONTENT = {
     },
     {
       "name": "Ambarsariya Fashion",
-      "image": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(30).jpeg",
-      "category": "Other businesses"
+      "image": "assets/client-transparent/93-ambarsariya-fashion.png",
+      "category": "Other businesses",
+      "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(30).jpeg",
+      "imageTransparent": "assets/client-transparent/93-ambarsariya-fashion.png"
     }
   ],
   "services": [
@@ -763,4 +880,3 @@ window.NEXAGEN_CONTENT = {
     }
   ]
 };
-

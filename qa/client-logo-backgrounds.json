@@ -1,0 +1,314 @@
+{
+  "mode": "Built-in imagegen edit / background-extraction",
+  "checkedClientLogos": 94,
+  "editedOpaqueLogos": 61,
+  "alreadyTransparentLogosUnchanged": 33,
+  "originalFilesRetained": true,
+  "edits": [
+    {
+      "name": "Azan-e-Madina Travel",
+      "savedAsset": "assets/client-transparent/07-azan-e-madina-travel.png",
+      "prompt": "Use case: background-extraction. Edit target: Azan-e-Madina Travel client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Azan E Madina Travels",
+      "savedAsset": "assets/client-transparent/31-azan-e-madina-travels.png",
+      "prompt": "Use case: background-extraction. Edit target: Azan E Madina Travels client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Ahmed Noor Travel & Tours",
+      "savedAsset": "assets/client-transparent/32-ahmed-noor-travel---tours.png",
+      "prompt": "Use case: background-extraction. Edit target: Ahmed Noor Travel & Tours client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Air Circle Travel & Tourism",
+      "savedAsset": "assets/client-transparent/33-air-circle-travel---tourism.png",
+      "prompt": "Use case: background-extraction. Edit target: Air Circle Travel & Tourism client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Air Touch Holidays",
+      "savedAsset": "assets/client-transparent/34-air-touch-holidays.png",
+      "prompt": "Use case: background-extraction. Edit target: Air Touch Holidays client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Al Aitemar Travel & Tours",
+      "savedAsset": "assets/client-transparent/35-al-aitemar-travel---tours.png",
+      "prompt": "Use case: background-extraction. Edit target: Al Aitemar Travel & Tours client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Al Dayan Travel & Tours",
+      "savedAsset": "assets/client-transparent/36-al-dayan-travel---tours.png",
+      "prompt": "Use case: background-extraction. Edit target: Al Dayan Travel & Tours client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Al-Deafah",
+      "savedAsset": "assets/client-transparent/37-al-deafah.png",
+      "prompt": "Use case: background-extraction. Edit target: Al-Deafah client logo. Remove only the rectangular backdrop (white, gray, black or colored) to actual transparency. Preserve all original logo artwork, colors, typography, every word, fine lines, shapes and internal white or black fills that are part of the logo. No redesign, no new text, no cropping of artwork. Keep pale details and white lettering intact. Retain internal badge shapes, remove only outside flat backdrop."
+    },
+    {
+      "name": "Al Fajr International Travels",
+      "savedAsset": "assets/client-transparent/38-al-fajr-international-travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Fajr International Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Falak Aviation",
+      "savedAsset": "assets/client-transparent/39-al-falak-aviation.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Falak Aviation logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Fareed Fly Travel & Tours",
+      "savedAsset": "assets/client-transparent/40-al-fareed-fly-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Fareed Fly Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al-Hafiz International Travel & Tours",
+      "savedAsset": "assets/client-transparent/41-al-hafiz-international-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al-Hafiz International Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al-Khalifa Travel",
+      "savedAsset": "assets/client-transparent/42-al-khalifa-travel.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al-Khalifa Travel logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al-Khandwani International Travel & Tours",
+      "savedAsset": "assets/client-transparent/43-al-khandwani-international-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al-Khandwani International Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "AMT&T",
+      "savedAsset": "assets/client-transparent/44-amt-t.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from AMT&T logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al-Mashriq Travel & Tours",
+      "savedAsset": "assets/client-transparent/45-al-mashriq-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al-Mashriq Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Murad Aviation",
+      "savedAsset": "assets/client-transparent/46-al-murad-aviation.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Murad Aviation logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Noor Al Amin Travel & Tours",
+      "savedAsset": "assets/client-transparent/47-al-noor-al-amin-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Noor Al Amin Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Qadeer Travels",
+      "savedAsset": "assets/client-transparent/48-al-qadeer-travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Qadeer Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Rehmat Travel & Tours",
+      "savedAsset": "assets/client-transparent/49-al-rehmat-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Rehmat Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al-Saad Travel & Tours",
+      "savedAsset": "assets/client-transparent/50-al-saad-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al-Saad Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Safar Wal Siyahah",
+      "savedAsset": "assets/client-transparent/51-al-safar-wal-siyahah.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Safar Wal Siyahah logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al Safia Travels",
+      "savedAsset": "assets/client-transparent/52-al-safia-travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al Safia Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Al-Tayyar Travel Advisor",
+      "savedAsset": "assets/client-transparent/53-al-tayyar-travel-advisor.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Al-Tayyar Travel Advisor logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Alaamir International",
+      "savedAsset": "assets/client-transparent/54-alaamir-international.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Alaamir International logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Alamgir Travel Point Services",
+      "savedAsset": "assets/client-transparent/55-alamgir-travel-point-services.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Alamgir Travel Point Services logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Ali Universal Travel & Tourism",
+      "savedAsset": "assets/client-transparent/56-ali-universal-travel---tourism.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Ali Universal Travel & Tourism logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Afaf Rabana Travels & Tours",
+      "savedAsset": "assets/client-transparent/57-afaf-rabana-travels---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Afaf Rabana Travels & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Flight Express",
+      "savedAsset": "assets/client-transparent/58-flight-express.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Flight Express logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Five Star Travel",
+      "savedAsset": "assets/client-transparent/59-five-star-travel.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Five Star Travel logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Fatmi Travel & Tours",
+      "savedAsset": "assets/client-transparent/60-fatmi-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Fatmi Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "New Fast Shine Travel & Tours",
+      "savedAsset": "assets/client-transparent/61-new-fast-shine-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from New Fast Shine Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Airways Express",
+      "savedAsset": "assets/client-transparent/62-airways-express.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Airways Express logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Emaar Pakistan Travel & Tours",
+      "savedAsset": "assets/client-transparent/63-emaar-pakistan-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Emaar Pakistan Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Durrani International Travel & Tours",
+      "savedAsset": "assets/client-transparent/64-durrani-international-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Durrani International Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "92 Madina",
+      "savedAsset": "assets/client-transparent/65-92-madina.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from 92 Madina logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Dost Umrah Group Services",
+      "savedAsset": "assets/client-transparent/66-dost-umrah-group-services.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Dost Umrah Group Services logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Divine Travels & Tours",
+      "savedAsset": "assets/client-transparent/67-divine-travels---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Divine Travels & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Deal Air Travel",
+      "savedAsset": "assets/client-transparent/68-deal-air-travel.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Deal Air Travel logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Dar Al Haram Travels",
+      "savedAsset": "assets/client-transparent/69-dar-al-haram-travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Dar Al Haram Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Crown International Travels",
+      "savedAsset": "assets/client-transparent/70-crown-international-travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Crown International Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Cheapfly Travels & Tours",
+      "savedAsset": "assets/client-transparent/71-cheapfly-travels---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Cheapfly Travels & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Buraq Travel Network",
+      "savedAsset": "assets/client-transparent/72-buraq-travel-network.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Buraq Travel Network logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "BS Travel Services",
+      "savedAsset": "assets/client-transparent/73-bs-travel-services.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from BS Travel Services logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Brothers International Travels",
+      "savedAsset": "assets/client-transparent/74-brothers-international-travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Brothers International Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Amal Holidays",
+      "savedAsset": "assets/client-transparent/75-amal-holidays.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Amal Holidays logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Anas Tours & Travels",
+      "savedAsset": "assets/client-transparent/76-anas-tours---travels.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Anas Tours & Travels logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Areej Travel & Tourism",
+      "savedAsset": "assets/client-transparent/77-areej-travel---tourism.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Areej Travel & Tourism logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Asean Travel & Tours",
+      "savedAsset": "assets/client-transparent/78-asean-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Asean Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "ASM Travel & Tours",
+      "savedAsset": "assets/client-transparent/79-asm-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from ASM Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Umar Travel & Tours",
+      "savedAsset": "assets/client-transparent/80-umar-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Umar Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Azhan Travel",
+      "savedAsset": "assets/client-transparent/81-azhan-travel.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Azhan Travel logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Babul International Travel & Tours",
+      "savedAsset": "assets/client-transparent/82-babul-international-travel---tours.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Babul International Travel & Tours logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "CLO",
+      "savedAsset": "assets/client-transparent/83-clo.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from CLO logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Experts",
+      "savedAsset": "assets/client-transparent/84-experts.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Experts logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "CFD",
+      "savedAsset": "assets/client-transparent/85-cfd.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from CFD logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Faryad Decor Hub",
+      "savedAsset": "assets/client-transparent/87-faryad-decor-hub.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Faryad Decor Hub logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Emaan Enterprises",
+      "savedAsset": "assets/client-transparent/88-emaan-enterprises.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Emaan Enterprises logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Deeds",
+      "savedAsset": "assets/client-transparent/89-deeds.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Deeds logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Chawla Stitching Studio",
+      "savedAsset": "assets/client-transparent/90-chawla-stitching-studio.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Chawla Stitching Studio logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    },
+    {
+      "name": "Ambarsariya Fashion",
+      "savedAsset": "assets/client-transparent/93-ambarsariya-fashion.png",
+      "prompt": "Use case: background-extraction. Remove only rectangular background from Ambarsariya Fashion logo. Preserve exactly all artwork, text, original colors, badge shapes and internal light or dark fills. Keep white lettering intact, no redesign, no new text, no artwork cropping. Return genuine transparency outside logo artwork."
+    }
+  ]
+}
