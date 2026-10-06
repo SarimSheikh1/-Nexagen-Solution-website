@@ -9,7 +9,9 @@ const assert = require('node:assert/strict');
     await page.goto('http://127.0.0.1:4173/#/portal');
     await page.locator('#portfolioGrid').waitFor();
     while (await page.locator('#loadClients').isVisible()) await page.locator('#loadClients').click();
-    assert.equal(await page.locator('#portfolioGrid .client-website-overlay').count(), 20);
+    assert.equal(await page.locator('#portfolioGrid .client-website-overlay').count(), 24);
+    const premier = page.locator('#portfolioGrid .logo-card').filter({hasText:'Premier Travel Group'});
+    assert.equal(await premier.locator('.client-website-overlay').getAttribute('href'), 'https://premieradventuretours.com/');
     for (const width of [390, 1440]) {
       await page.setViewportSize({width, height:900});
       const link = page.locator('#portfolioGrid .client-website-overlay').first();
@@ -21,6 +23,6 @@ const assert = require('node:assert/strict');
       assert(await link.evaluate(el => { const b=el.getBoundingClientRect(); return document.elementFromPoint(b.x+b.width/2,b.y+40).closest('a') === el; }));
     }
     assert.deepEqual(errors, []);
-    console.log('PASS: 20 logo-matched portal cards have full-background links; desktop/mobile hit targets and new-tab destinations verified.');
+    console.log('PASS: 24 client cards have verified or user-supplied background links; Premier destination and desktop/mobile click targets verified.');
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exitCode=1; });

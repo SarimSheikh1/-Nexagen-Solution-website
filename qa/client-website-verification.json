@@ -81,13 +81,53 @@
     {
       "name": "Tulips",
       "url": "https://tulips.com.pk/"
+    },
+    {
+      "name": "Brothers International Travels",
+      "url": "https://www.brothersinttvls.com/",
+      "verification": "Destination logo visually compared with supplied artwork."
+    },
+    {
+      "name": "Alaamir International",
+      "url": "https://alaamir.co/",
+      "verification": "Destination logo visually compared with supplied artwork."
+    },
+    {
+      "name": "Shaheen Wings Travels",
+      "url": "https://shaheenwingstravels.com/",
+      "verification": "Destination logo visually compared with supplied artwork."
+    },
+    {
+      "name": "Premier Travel Group",
+      "url": "https://premieradventuretours.com/",
+      "verification": "User supplied this destination for the Premier Travel Group card; current destination branding is Premier Adventure."
     }
   ],
   "unconfirmed": [
     "RGS Umrah Group of Companies",
-    "Shaheen Wings Travels",
     "Premier Adventure",
-    "Al-Mashriq Travel & Tours",
-    "Alaamir International"
+    "Al-Mashriq Travel & Tours"
+  ],
+  "additionalChecks": [
+    {
+      "name": "Kazmi Paradise",
+      "status": "Current destination is a parked domain; no logo confirmed."
+    },
+    {
+      "name": "Al-Naeem Travel & Tours",
+      "status": "Destination logo differs."
+    },
+    {
+      "name": "Al-Saad Travel & Tours",
+      "status": "Destination logo differs."
+    },
+    {
+      "name": "PNH Umrah Services",
+      "status": "Similar symbol but destination identifies PNH Group Swabi; exact identity unconfirmed."
+    },
+    {
+      "name": "RGS Umrah Group of Companies",
+      "status": "Destination certificate prevents verification."
+    }
   ]
 }

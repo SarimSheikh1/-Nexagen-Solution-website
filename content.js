@@ -195,7 +195,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/shaheenwings-transparent.png",
       "imageHD": "assets/client-hd/20.png",
-      "imageTransparent": "assets/client-hd/20.png"
+      "imageTransparent": "assets/client-hd/20.png",
+      "website": "https://shaheenwingstravels.com/"
     },
     {
       "name": "Sugra International",
@@ -247,7 +248,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-08%20at%2001.24.34-transparent.png",
       "imageHD": "assets/client-hd/26.png",
-      "imageTransparent": "assets/client-hd/26.png"
+      "imageTransparent": "assets/client-hd/26.png",
+      "website": "https://premieradventuretours.com/"
     },
     {
       "name": "Premier Adventure",
@@ -448,7 +450,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/54-alaamir-international.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(26).jpeg",
-      "imageTransparent": "assets/client-transparent/54-alaamir-international.png"
+      "imageTransparent": "assets/client-transparent/54-alaamir-international.png",
+      "website": "https://alaamir.co/"
     },
     {
       "name": "Alamgir Travel Point Services",
@@ -590,7 +593,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/74-brothers-international-travels.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(26).jpeg",
-      "imageTransparent": "assets/client-transparent/74-brothers-international-travels.png"
+      "imageTransparent": "assets/client-transparent/74-brothers-international-travels.png",
+      "website": "https://www.brothersinttvls.com/"
     },
     {
       "name": "Amal Holidays",
