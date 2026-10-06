@@ -585,6 +585,7 @@ a:hover {
 }
 
 .logo-card {
+  position: relative;
   margin: 0;
   padding: 24px;
   background: white;
@@ -594,6 +595,30 @@ a:hover {
   box-shadow: none;
 }
 
+.client-website-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: inherit;
+  color: var(--accent, #2563eb);
+}
+.client-website-overlay span {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  font-size: 20px;
+}
+.client-website-overlay:hover {
+  box-shadow: inset 0 0 0 2px currentColor;
+}
+.client-website-overlay:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}
+.logo-card .client-name-link {
+  position: relative;
+  z-index: 2;
+}
 .logo-card img {
   height: 130px;
   width: 100%;
@@ -1143,6 +1168,7 @@ main {
 
 
 .client-profile-art {
+  position: relative;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   background: #f8fafc;

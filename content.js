@@ -38,7 +38,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/flying-zone-international-transparent.png",
       "imageHD": "assets/client-hd/00.png",
-      "imageTransparent": "assets/client-hd/00.png"
+      "imageTransparent": "assets/client-hd/00.png",
+      "website": "https://b2b.flyingzon.com/"
     },
     {
       "name": "Abid Air International",
@@ -46,7 +47,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/abid-air-international-transparent.png",
       "imageHD": "assets/client-hd/01.png",
-      "imageTransparent": "assets/client-hd/01.png"
+      "imageTransparent": "assets/client-hd/01.png",
+      "website": "https://pia.abidairtravels.com/"
     },
     {
       "name": "RGS Umrah Group of Companies",
@@ -62,7 +64,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/ahan-transparent.png",
       "imageHD": "assets/client-hd/03.png",
-      "imageTransparent": "assets/client-hd/03.png"
+      "imageTransparent": "assets/client-hd/03.png",
+      "website": "https://ahantravels.com.pk/"
     },
     {
       "name": "Al-Naeem Travel & Tours",
@@ -106,7 +109,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/dalma-transparent.png",
       "imageHD": "assets/client-hd/09.png",
-      "imageTransparent": "assets/client-hd/09.png"
+      "imageTransparent": "assets/client-hd/09.png",
+      "website": "https://aldalmatravels.pk/"
     },
     {
       "name": "Jawad International Air Services",
@@ -128,7 +132,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/optimized/70126627cf0ca566.webp",
       "category": "Travel",
       "imageOriginal": "assets/madina-shareef-transparent.png",
-      "imageRetina": "assets/madina-shareef-transparent.png"
+      "imageRetina": "assets/madina-shareef-transparent.png",
+      "website": "https://www.madinashareeftravelsb2b.online/"
     },
     {
       "name": "Maher Travel & Tourism",
@@ -164,7 +169,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/quicktravels-transparent.png",
       "imageHD": "assets/client-hd/17.png",
-      "imageTransparent": "assets/client-hd/17.png"
+      "imageTransparent": "assets/client-hd/17.png",
+      "website": "https://www.quicktrvservices.com/"
     },
     {
       "name": "Rihla Access",
@@ -172,14 +178,16 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/RihlaAccess-transparent.png",
       "imageHD": "assets/client-hd/18.png",
-      "imageTransparent": "assets/client-hd/18.png"
+      "imageTransparent": "assets/client-hd/18.png",
+      "website": "https://b2b.rihlaaccess.com/"
     },
     {
       "name": "Sawar-e-Haram",
       "image": "assets/optimized/0a831bcb52c7453d.webp",
       "category": "Travel",
       "imageOriginal": "assets/sawareharam-transparent.png",
-      "imageRetina": "assets/sawareharam-transparent.png"
+      "imageRetina": "assets/sawareharam-transparent.png",
+      "website": "https://www.sawareharamgroups.com/"
     },
     {
       "name": "Shaheen Wings Travels",
@@ -195,7 +203,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/sugralogo-transparent.png",
       "imageHD": "assets/client-hd/21.png",
-      "imageTransparent": "assets/client-hd/21.png"
+      "imageTransparent": "assets/client-hd/21.png",
+      "website": "https://sugratravel.com/"
     },
     {
       "name": "The Flight Centre",
@@ -203,7 +212,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/tfc-transparent.png",
       "imageHD": "assets/client-hd/22.png",
-      "imageTransparent": "assets/client-hd/22.png"
+      "imageTransparent": "assets/client-hd/22.png",
+      "website": "https://www.tfctours.com/"
     },
     {
       "name": "Tourvision Travel",
@@ -211,7 +221,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/tourvision-transparent.png",
       "imageHD": "assets/client-hd/23.png",
-      "imageTransparent": "assets/client-hd/23.png"
+      "imageTransparent": "assets/client-hd/23.png",
+      "website": "https://tourvisiontravel.com/"
     },
     {
       "name": "Waqar-e-Makkah",
@@ -219,7 +230,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/waqaremakkah-transparent.png",
       "imageHD": "assets/client-hd/24.png",
-      "imageTransparent": "assets/client-hd/24.png"
+      "imageTransparent": "assets/client-hd/24.png",
+      "website": "https://waqaremakkah.com/"
     },
     {
       "name": "QWP Travel Services",
@@ -286,7 +298,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/33-air-circle-travel---tourism.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(3).jpeg",
-      "imageTransparent": "assets/client-transparent/33-air-circle-travel---tourism.png"
+      "imageTransparent": "assets/client-transparent/33-air-circle-travel---tourism.png",
+      "website": "https://aircircletravel.com/"
     },
     {
       "name": "Air Touch Holidays",
@@ -314,7 +327,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/37-al-deafah.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(7).jpeg",
-      "imageTransparent": "assets/client-transparent/37-al-deafah.png"
+      "imageTransparent": "assets/client-transparent/37-al-deafah.png",
+      "website": "https://www.aldeafahgroup.com/"
     },
     {
       "name": "Al Fajr International Travels",
@@ -356,7 +370,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/43-al-khandwani-international-travel---tours.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.56%20(13).jpeg",
-      "imageTransparent": "assets/client-transparent/43-al-khandwani-international-travel---tours.png"
+      "imageTransparent": "assets/client-transparent/43-al-khandwani-international-travel---tours.png",
+      "website": "https://alkhandwani.com/"
     },
     {
       "name": "AMT&T",
@@ -461,7 +476,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/58-flight-express.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(1).jpeg",
-      "imageTransparent": "assets/client-transparent/58-flight-express.png"
+      "imageTransparent": "assets/client-transparent/58-flight-express.png",
+      "website": "https://flightexpress.pk/"
     },
     {
       "name": "Five Star Travel",
@@ -545,7 +561,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/70-crown-international-travels.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(18).jpeg",
-      "imageTransparent": "assets/client-transparent/70-crown-international-travels.png"
+      "imageTransparent": "assets/client-transparent/70-crown-international-travels.png",
+      "website": "https://www.crownintltravels.com/"
     },
     {
       "name": "Cheapfly Travels & Tours",
@@ -587,7 +604,8 @@ window.NEXAGEN_CONTENT = {
       "image": "assets/client-transparent/76-anas-tours---travels.png",
       "category": "Travel",
       "imageOriginal": "assets/WhatsApp%20Image%202026-09-09%20at%2001.41.57%20(32).jpeg",
-      "imageTransparent": "assets/client-transparent/76-anas-tours---travels.png"
+      "imageTransparent": "assets/client-transparent/76-anas-tours---travels.png",
+      "website": "https://anastt.com/"
     },
     {
       "name": "Areej Travel & Tourism",
@@ -691,13 +709,15 @@ window.NEXAGEN_CONTENT = {
       "name": "Afino Textile Mills",
       "image": "assets/afino-textile-mills-transparent.png",
       "category": "Other businesses",
-      "imageOriginal": "assets/afino-textile-mills.png"
+      "imageOriginal": "assets/afino-textile-mills.png",
+      "website": "https://afinotextile.com/"
     },
     {
       "name": "Tulips",
       "image": "assets/tulips-transparent.png",
       "category": "Other businesses",
-      "imageOriginal": "assets/tulips.jpeg"
+      "imageOriginal": "assets/tulips.jpeg",
+      "website": "https://tulips.com.pk/"
     },
     {
       "name": "Ambarsariya Fashion",

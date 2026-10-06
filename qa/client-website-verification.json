@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-06",
+  "method": "Search by client name, then visually compare logo symbols on the destination with supplied client artwork.",
+  "confirmed": [
+    {
+      "name": "Flying Zone International",
+      "url": "https://b2b.flyingzon.com/"
+    },
+    {
+      "name": "Abid Air International",
+      "url": "https://pia.abidairtravels.com/"
+    },
+    {
+      "name": "Ahan Travels & Tours",
+      "url": "https://ahantravels.com.pk/"
+    },
+    {
+      "name": "Al-Dalma Travels & Tourism",
+      "url": "https://aldalmatravels.pk/"
+    },
+    {
+      "name": "Madina Shareef",
+      "url": "https://www.madinashareeftravelsb2b.online/"
+    },
+    {
+      "name": "Quick Travel Services",
+      "url": "https://www.quicktrvservices.com/"
+    },
+    {
+      "name": "Rihla Access",
+      "url": "https://b2b.rihlaaccess.com/"
+    },
+    {
+      "name": "Sawar-e-Haram",
+      "url": "https://www.sawareharamgroups.com/"
+    },
+    {
+      "name": "Sugra International",
+      "url": "https://sugratravel.com/"
+    },
+    {
+      "name": "The Flight Centre",
+      "url": "https://www.tfctours.com/"
+    },
+    {
+      "name": "Tourvision Travel",
+      "url": "https://tourvisiontravel.com/"
+    },
+    {
+      "name": "Waqar-e-Makkah",
+      "url": "https://waqaremakkah.com/"
+    },
+    {
+      "name": "Air Circle Travel & Tourism",
+      "url": "https://aircircletravel.com/"
+    },
+    {
+      "name": "Al-Deafah",
+      "url": "https://www.aldeafahgroup.com/"
+    },
+    {
+      "name": "Al-Khandwani International Travel & Tours",
+      "url": "https://alkhandwani.com/"
+    },
+    {
+      "name": "Flight Express",
+      "url": "https://flightexpress.pk/"
+    },
+    {
+      "name": "Crown International Travels",
+      "url": "https://www.crownintltravels.com/"
+    },
+    {
+      "name": "Anas Tours & Travels",
+      "url": "https://anastt.com/"
+    },
+    {
+      "name": "Afino Textile Mills",
+      "url": "https://afinotextile.com/"
+    },
+    {
+      "name": "Tulips",
+      "url": "https://tulips.com.pk/"
+    }
+  ],
+  "unconfirmed": [
+    "RGS Umrah Group of Companies",
+    "Shaheen Wings Travels",
+    "Premier Adventure",
+    "Al-Mashriq Travel & Tours",
+    "Alaamir International"
+  ]
+}
