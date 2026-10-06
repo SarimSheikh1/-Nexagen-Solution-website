@@ -9,9 +9,11 @@ const assert = require('node:assert/strict');
     await page.goto('http://127.0.0.1:4173/#/portal');
     await page.locator('#portfolioGrid').waitFor();
     while (await page.locator('#loadClients').isVisible()) await page.locator('#loadClients').click();
-    assert.equal(await page.locator('#portfolioGrid .client-website-overlay').count(), 24);
+    assert.equal(await page.locator('#portfolioGrid .client-website-overlay').count(), 25);
     const linkedOrder = await page.locator('#portfolioGrid .logo-card').evaluateAll(cards => cards.map(card => Boolean(card.querySelector('.client-website-overlay'))));
-    assert.deepEqual(linkedOrder, [...Array(24).fill(true), ...Array(70).fill(false)]);
+    assert.deepEqual(linkedOrder, [...Array(25).fill(true), ...Array(69).fill(false)]);
+    const rgs = page.locator('#portfolioGrid .logo-card').filter({hasText:'RGS Umrah Group of Companies'});
+    assert.equal(await rgs.locator('.client-website-overlay').getAttribute('href'), 'https://rgsumrah.com/');
     const premier = page.locator('#portfolioGrid .logo-card').filter({hasText:'Premier Travel Group'});
     assert.equal(await premier.locator('.client-website-overlay').getAttribute('href'), 'https://premieradventuretours.com/');
     for (const width of [390, 1440]) {
@@ -25,6 +27,6 @@ const assert = require('node:assert/strict');
       assert(await link.evaluate(el => { const b=el.getBoundingClientRect(); return document.elementFromPoint(b.x+b.width/2,b.y+40).closest('a') === el; }));
     }
     assert.deepEqual(errors, []);
-    console.log('PASS: 24 client cards have verified or user-supplied background links; Premier destination and desktop/mobile click targets verified.');
+    console.log('PASS: 25 linked client cards appear first; RGS and Premier destinations plus desktop/mobile click targets verified.');
   } finally { await browser.close(); }
 })().catch(error => { console.error(error); process.exitCode=1; });

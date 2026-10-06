@@ -101,10 +101,15 @@
       "name": "Premier Travel Group",
       "url": "https://premieradventuretours.com/",
       "verification": "User supplied this destination for the Premier Travel Group card; current destination branding is Premier Adventure."
+    },
+    {
+      "name": "RGS Umrah Group of Companies",
+      "url": "https://rgsumrah.com/",
+      "verification": "Live portal logo visually matches the supplied RGS logo.",
+      "logoSource": "https://rgsumrah.com/assets/logo-CjPmIKOK.png"
     }
   ],
   "unconfirmed": [
-    "RGS Umrah Group of Companies",
     "Premier Adventure",
     "Al-Mashriq Travel & Tours"
   ],
@@ -124,10 +129,6 @@
     {
       "name": "PNH Umrah Services",
       "status": "Similar symbol but destination identifies PNH Group Swabi; exact identity unconfirmed."
-    },
-    {
-      "name": "RGS Umrah Group of Companies",
-      "status": "Destination certificate prevents verification."
     }
   ]
 }

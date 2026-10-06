@@ -56,7 +56,8 @@ window.NEXAGEN_CONTENT = {
       "category": "Travel",
       "imageOriginal": "assets/rgs-umrah-group-transparent.png",
       "imageHD": "assets/client-hd/02.png",
-      "imageTransparent": "assets/client-hd/02.png"
+      "imageTransparent": "assets/client-hd/02.png",
+      "website": "https://rgsumrah.com/"
     },
     {
       "name": "Ahan Travels & Tours",
