@@ -9,8 +9,6 @@
 .portal-directory-link:hover { background: #087e99; color: white; }
 .portal-track { display: flex; gap: 40px; width: max-content; padding: 44px max(24px,calc((100vw - 1240px)/2)); align-items: center; flex: 1; }
 .portal-record { width: clamp(290px,30vw,420px); flex-shrink: 0; color: #172b30; display: block; }
-.portal-record:nth-child(odd) { transform: translateY(-8px); }
-.portal-record:nth-child(even) { transform: translateY(8px); }
 .portal-record-index { display: block; font-size: 10px; letter-spacing: .14em; margin-bottom: 12px; color: #526d74; }
 .portal-box { height: clamp(280px,35vh,350px); border-radius: 20px; position: relative; display: grid; place-items: center; padding: 60px 28px 52px; box-sizing: border-box; background: transparent; border: 1px solid #d3dfe2; box-shadow: 0 14px 32px #172b3009; overflow: hidden; transition: box-shadow .25s,border-color .25s; }
 .portal-box-1 { background: transparent; }
@@ -22,7 +20,7 @@
 .portal-box-caption { position: absolute; bottom: 20px; left: 22px; font-size: 11px; color: #526d74; }
 .portal-record-name { display: flex; justify-content: space-between; align-items: center; font-size: clamp(16px,1.4vw,20px); font-weight: 600; margin-top: 16px; letter-spacing: -.025em; }
 .portal-record:hover .portal-box, .portal-record:focus-visible .portal-box { box-shadow: 0 18px 36px #172b3015; border-color: #0891b2; }
-.portal-record:hover img { transform: scale(1.06); }
+
 .portal-record:hover .portal-record-name, .portal-record:focus-visible .portal-record-name { color: #087e99; }
 .portal-gallery-footer { display: flex; gap: 24px; align-items: center; justify-content: space-between; padding-top: 16px; padding-bottom: 26px; font-size: 10px; letter-spacing: .13em; }
 .portal-progress { height: 3px; border-radius: 4px; flex: 1; background: #172b301a; max-width: 420px; overflow: hidden; }
@@ -39,8 +37,6 @@
  .portal-record { width: 300px; }
  .portal-box { height: 290px; padding: 54px 24px 48px; }
  .portal-track { gap: 28px; padding-top: 40px; padding-bottom: 40px; }
- .portal-record:nth-child(odd) { transform: translateY(-6px); }
- .portal-record:nth-child(even) { transform: translateY(6px); }
  .portal-gallery-footer { gap: 12px; font-size: 8px; }
 }
 @media(prefers-reduced-motion:reduce) {

@@ -18,18 +18,13 @@ window.portalMotion = (() => {
           const timeline = gsap.timeline({scrollTrigger: {
             trigger: gallery, scroller: document.getElementById('pageScroll'), start: 'top top',
             end: () => '+=' + Math.max(distance(), innerHeight * 1.8),
-            pin: true, scrub: 1, invalidateOnRefresh: true,
+            pin: true, scrub: true, invalidateOnRefresh: true,
             onUpdate: self => {
               gallery.querySelector('.portal-progress-fill').style.transform = `scaleX(${self.progress})`;
             }
           }});
           timeline.to(track, {x: () => -distance(), ease: 'none'}, 0);
-          gsap.from('.portal-gallery-heading > *', {y: 28, opacity: 0, stagger: .12, duration: .8,
-            scrollTrigger: {trigger: gallery, scroller: document.getElementById('pageScroll'), start: 'top 85%'}});
-          gsap.utils.toArray('.portal-featured .featured-client').forEach((card, index) => {
-            gsap.from(card, {x: index % 2 ? 55 : -55, opacity: 0, duration: .8,
-              scrollTrigger: {trigger: card, scroller: document.getElementById('pageScroll'), start: 'top 90%'}});
-          });
+
         });
       }, gallery.parentElement);
       ScrollTrigger.refresh();
