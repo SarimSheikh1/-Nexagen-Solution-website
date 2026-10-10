@@ -9,12 +9,25 @@ window.portalMotion = (() => {
       if (!gallery) return;
       const track = gallery.querySelector('.portal-track');
       const listeners = [];
+      const toggle = gallery.querySelector('.portal-view-toggle');
+      let simple = false;
       const listen = (element, event, handler) => {
         element.addEventListener(event, handler);
         listeners.push(() => element.removeEventListener(event, handler));
       };
-      listen(gallery.querySelector('.portal-directory-link'), 'click', () => {
+      listen(gallery.querySelector('.portal-browse'), 'click', () => {
         document.getElementById('portalDirectory')?.scrollIntoView({behavior: 'auto'});
+      });
+      listen(toggle, 'click', () => {
+        simple = !simple;
+        gallery.classList.toggle('portal-simple', simple);
+        toggle.setAttribute('aria-pressed', String(simple));
+        toggle.textContent = simple ? 'Gallery view' : 'Simple view';
+        if (window.gsap) {
+          const targets = gallery.querySelectorAll('.portal-box img, .portal-box-label > span');
+          gsap.killTweensOf(targets);
+          gsap.set(targets, {clearProps: 'transform'});
+        }
       });
       const progress = () => {
         const distance = track.scrollWidth - track.clientWidth;
@@ -30,6 +43,7 @@ window.portalMotion = (() => {
           const image = card.querySelector('img');
           const arrow = card.querySelector('.portal-box-label > span');
           const animate = active => {
+            if (simple) return;
             gsap.to(image, {scale: active ? 1.04 : 1, duration: .3, ease: 'power2.out', overwrite: true});
             gsap.to(arrow, {x: active ? 3 : 0, y: active ? -3 : 0, duration: .3, ease: 'power2.out', overwrite: true});
           };

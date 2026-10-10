@@ -1841,3 +1841,12 @@ input,select,textarea { font-size:16px; }
 /* High-resolution transparent brand artwork without the old square canvas. */
 .brand img, .footer-brand img { object-position:center; }
 .client-art img, .client-profile-art img { mix-blend-mode: normal; }
+
+/* A quiet alternative to the interactive gallery. */
+.portal-view-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.portal-view-toggle[aria-pressed="true"] { background: #087e99; color: white; }
+.portal-simple .portal-track { display: grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); width: min(100%,1290px); margin: 0 auto; padding: 32px 24px; gap: 32px; overflow: visible; }
+.portal-simple .portal-record { width: 100%; }
+.portal-simple .portal-box, .portal-simple .portal-box img { transition: none; }
+.portal-simple .portal-gallery-footer { display: none; }
+@media(max-width:600px) { .portal-view-actions { flex-direction: column; gap: 6px; } .portal-simple .portal-track { grid-template-columns: 1fr; } }
