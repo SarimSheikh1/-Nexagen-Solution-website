@@ -23,8 +23,7 @@ window.portalMotion = (() => {
               gallery.querySelector('.portal-progress-fill').style.transform = `scaleX(${self.progress})`;
             }
           }});
-          timeline.to(track, {x: () => -distance(), ease: 'none'}, 0)
-            .fromTo('.portal-disc', {rotation: -18}, {rotation: 24, ease: 'none'}, 0);
+          timeline.to(track, {x: () => -distance(), ease: 'none'}, 0);
           gsap.from('.portal-gallery-heading > *', {y: 28, opacity: 0, stagger: .12, duration: .8,
             scrollTrigger: {trigger: gallery, scroller: document.getElementById('pageScroll'), start: 'top 85%'}});
           gsap.utils.toArray('.portal-featured .featured-client').forEach((card, index) => {
