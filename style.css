@@ -7,13 +7,13 @@
 .portal-gallery-description p { margin: 0 0 18px; }
 .portal-directory-link { background: #fff; border: 1px solid #d3e2e4; border-radius: 100px; color: #087e99; cursor: pointer; padding: 11px 18px; font-weight: 600; }
 .portal-directory-link:hover { background: #087e99; color: white; }
-.portal-track { display: flex; gap: 24px; width: max-content; padding: 24px max(24px,calc((100vw - 1240px)/2)); align-items: center; flex: 1; }
+.portal-track { display: flex; gap: 40px; width: max-content; padding: 32px max(24px,calc((100vw - 1240px)/2)); align-items: center; flex: 1; }
 .portal-record { width: clamp(260px,28vw,380px); flex-shrink: 0; color: #172b30; display: block; }
 .portal-record-index { display: block; font-size: 10px; letter-spacing: .14em; margin-bottom: 12px; color: #526d74; }
-.portal-box { height: clamp(220px,30vh,310px); border-radius: 20px; position: relative; display: grid; place-items: center; background: #e4efeb; border: 1px solid #d2e2db; box-shadow: 0 14px 32px #172b3009; overflow: hidden; transition: box-shadow .25s,border-color .25s; }
-.portal-box-1 { background: #e3eff5; border-color: #d1e2ec; }
-.portal-box-2 { background: #f1eadf; border-color: #e6ddce; }
-.portal-box-3 { background: #eeebf5; border-color: #ded8eb; }
+.portal-box { height: clamp(220px,30vh,310px); border-radius: 20px; position: relative; display: grid; place-items: center; background: transparent; border: 1px solid #d3dfe2; box-shadow: 0 14px 32px #172b3009; overflow: hidden; transition: box-shadow .25s,border-color .25s; }
+.portal-box-1 { background: transparent; }
+.portal-box-2 { background: transparent; }
+.portal-box-3 { background: transparent; }
 .portal-box img { width: 76%; height: 55%; object-fit: contain; transition: transform .4s; }
 .portal-box-label { position: absolute; top: 22px; left: 22px; right: 22px; display: flex; justify-content: space-between; font-size: 9px; letter-spacing: .12em; color: #526d74; }
 .portal-box-label > span { font-size: 20px; line-height: 1; }
@@ -36,7 +36,7 @@
  .portal-directory-link { padding: 9px 12px; font-size: 11px; white-space: nowrap; }
  .portal-record { width: 280px; }
  .portal-box { height: 250px; }
- .portal-track { gap: 20px; padding-top: 24px; padding-bottom: 24px; }
+ .portal-track { gap: 28px; padding-top: 28px; padding-bottom: 28px; }
  .portal-gallery-footer { gap: 12px; font-size: 8px; }
 }
 @media(prefers-reduced-motion:reduce) {
