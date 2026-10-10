@@ -7,8 +7,10 @@
 .portal-gallery-description p { margin: 0 0 18px; }
 .portal-directory-link { background: #fff; border: 1px solid #d3e2e4; border-radius: 100px; color: #087e99; cursor: pointer; padding: 11px 18px; font-weight: 600; }
 .portal-directory-link:hover { background: #087e99; color: white; }
-.portal-track { display: flex; gap: 40px; width: max-content; padding: 32px max(24px,calc((100vw - 1240px)/2)); align-items: center; flex: 1; }
+.portal-track { display: flex; gap: 40px; width: max-content; padding: 44px max(24px,calc((100vw - 1240px)/2)); align-items: center; flex: 1; }
 .portal-record { width: clamp(290px,30vw,420px); flex-shrink: 0; color: #172b30; display: block; }
+.portal-record:nth-child(odd) { transform: translateY(-18px); }
+.portal-record:nth-child(even) { transform: translateY(18px); }
 .portal-record-index { display: block; font-size: 10px; letter-spacing: .14em; margin-bottom: 12px; color: #526d74; }
 .portal-box { height: clamp(280px,35vh,350px); border-radius: 20px; position: relative; display: grid; place-items: center; padding: 60px 28px 52px; box-sizing: border-box; background: transparent; border: 1px solid #d3dfe2; box-shadow: 0 14px 32px #172b3009; overflow: hidden; transition: box-shadow .25s,border-color .25s; }
 .portal-box-1 { background: transparent; }
@@ -36,7 +38,9 @@
  .portal-directory-link { padding: 9px 12px; font-size: 11px; white-space: nowrap; }
  .portal-record { width: 300px; }
  .portal-box { height: 290px; padding: 54px 24px 48px; }
- .portal-track { gap: 28px; padding-top: 28px; padding-bottom: 28px; }
+ .portal-track { gap: 28px; padding-top: 40px; padding-bottom: 40px; }
+ .portal-record:nth-child(odd) { transform: translateY(-12px); }
+ .portal-record:nth-child(even) { transform: translateY(12px); }
  .portal-gallery-footer { gap: 12px; font-size: 8px; }
 }
 @media(prefers-reduced-motion:reduce) {
