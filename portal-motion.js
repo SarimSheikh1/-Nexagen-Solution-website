@@ -1,10 +1,47 @@
 "use strict";
 window.portalMotion = (() => {
   let context;
+  let horizontalContext;
   let cleanup = () => {};
   return {
-    destroy() { cleanup(); cleanup = () => {}; context?.revert(); context = null; },
+    destroy() { cleanup(); cleanup = () => {}; horizontalContext?.revert(); horizontalContext = null; context?.revert(); context = null; },
     start() {
+      const services = document.querySelector('.services-motion');
+      const setupHorizontal = (section, track) => {
+        if (!window.gsap || !window.ScrollTrigger || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+        gsap.registerPlugin(ScrollTrigger);
+        horizontalContext = gsap.matchMedia();
+        horizontalContext.add('(min-width: 901px) and (min-height: 700px)', () => {
+          gsap.set(track, {scrollSnapType: 'none'});
+          gsap.to(track, {
+            scrollLeft: () => Math.max(0, track.scrollWidth - track.clientWidth),
+            ease: 'none',
+            scrollTrigger: {
+              trigger: section, scroller: '#pageScroll', start: 'top top',
+              end: () => `+=${Math.max(1, track.scrollWidth - track.clientWidth)}`,
+              pin: true, scrub: .6, invalidateOnRefresh: true
+            }
+          });
+          const focusCard = event => {
+            const card = event.target.closest('.card, .portal-record');
+            if (!card) return;
+            const trigger = ScrollTrigger.getAll().find(item => item.trigger === section);
+            if (trigger) trigger.scroll(trigger.start + Math.max(0, Math.min(track.scrollWidth - track.clientWidth, card.offsetLeft - track.offsetLeft - 24)));
+          };
+          track.addEventListener('focusin', focusCard);
+          return () => { track.removeEventListener('focusin', focusCard); track.scrollLeft = 0; };
+        });
+        horizontalContext.add('(max-width: 900px), (max-height: 699px)', () => {
+          gsap.from(track.querySelectorAll('.card'), {
+            x: 80, opacity: 0, duration: .7, stagger: .06, ease: 'power2.out',
+            scrollTrigger: {
+              trigger: section, scroller: '#pageScroll', start: 'top 85%',
+              toggleActions: 'play none none reverse'
+            }
+          });
+        });
+      };
+      if (services) setupHorizontal(services, services.querySelector('.services-track'));
       const gallery = document.querySelector('.portal-gallery');
       if (!gallery) return;
       const track = gallery.querySelector('.portal-track');
@@ -23,11 +60,6 @@ window.portalMotion = (() => {
         gallery.classList.toggle('portal-simple', simple);
         toggle.setAttribute('aria-pressed', String(simple));
         toggle.textContent = simple ? 'Gallery view' : 'Simple view';
-        if (window.gsap) {
-          const targets = gallery.querySelectorAll('.portal-box img, .portal-box-label > span');
-          gsap.killTweensOf(targets);
-          gsap.set(targets, {clearProps: 'transform'});
-        }
       });
       const progress = () => {
         const distance = track.scrollWidth - track.clientWidth;
@@ -37,22 +69,6 @@ window.portalMotion = (() => {
       listen(window, 'resize', progress);
       progress();
       cleanup = () => listeners.forEach(remove => remove());
-      if (!window.gsap || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-      context = gsap.context(() => {
-        gallery.querySelectorAll('.portal-record').forEach(card => {
-          const image = card.querySelector('img');
-          const arrow = card.querySelector('.portal-box-label > span');
-          const animate = active => {
-            if (simple) return;
-            gsap.to(image, {scale: active ? 1.04 : 1, duration: .3, ease: 'power2.out', overwrite: true});
-            gsap.to(arrow, {x: active ? 3 : 0, y: active ? -3 : 0, duration: .3, ease: 'power2.out', overwrite: true});
-          };
-          listen(card, 'pointerenter', event => { if (event.pointerType === 'mouse') animate(true); });
-          listen(card, 'pointerleave', () => animate(false));
-          listen(card, 'focus', () => animate(true));
-          listen(card, 'blur', () => animate(false));
-        });
-      }, gallery);
     }
   };
 })();
